@@ -1,0 +1,498 @@
+Text_ID,Sent_ID,Sent,POS_Tags
+1,1,"If you were to journey to the North of England, you would come to a valley that is surrounded by moors as high as mountains.","IN PRP VBD TO VB TO DT NNP IN NNP , PRP MD VB TO DT NN WDT VBZ VBN IN NNS RB JJ IN NNS ."
+1,2,"It is in this valley where you would find the city of Bradford, where once a thousand spinning jennies that hummed and clattered spun wool into money for the long-bearded mill owners.","PRP VBZ IN DT NN WRB PRP MD VB DT NN IN NNP , WRB RB DT CD VBG NNS WDT VBD CC VBD NN IN NN IN DT JJ NN NNS ."
+1,3,"That all mill owners were generally busy as beavers and quite pleased with themselves for being so successful and well off was known to the residents of Bradford, and if you were to go into the city to visit the stately City Hall, you would see there the Crest of the City of Bradford, which those same mill owners created to celebrate their achievements.","IN DT NN NNS VBD RB JJ IN NNS CC RB JJ IN PRP IN VBG RB JJ CC RB VBD VBN TO DT NNS IN NNP , CC IN PRP VBD TO VB IN DT NN TO VB DT JJ NNP , PRP MD VB RB DT NNP IN DT NNP IN NNP , WDT DT JJ NN NNS VBD TO VB PRP$ NNS ."
+1,4,"It shows a sinister looking boar's head sitting on top of a well which seems puzzling at first, but the reason for this symbol is a matter of legend.","PRP VBZ DT JJ VBG NN POS PRP$ NN VBG IN NN IN DT NN WDT VBZ JJ IN JJ , CC DT NN IN DT NN VBZ DT NN IN NN ."
+1,5,"There was once, legend has it, a fearsome boar, which lived in a wood located just outside the manor of Bradford.","EX VBD RB , NN VBZ PRP , DT JJ NN , WDT VBD IN DT NN VBN RB IN DT NN IN NNP ."
+1,6,"A source of great trouble to the local folk the boar was, bringing terror to the peaceful flocks and ravaging the countryside around.","DT NN IN JJ NN TO DT JJ NN DT NN VBD , VBG NN TO DT JJ NNS CC VBG DT NN RP ."
+1,7,"Even worse, however, the boar most liked to go to the well that was in the wood and drink its fresh water, so that the people of Bradford had second thoughts about visiting the well.","RB JJR , RB , DT NN RBS VBD TO VB TO DT NN WDT VBD IN DT NN CC VB PRP$ JJ NN , IN DT NNS IN NNP VBD JJ NNS IN VBG DT NN ."
+1,8,That the people of Bradford bore the brunt of the beast's ferocity was unfair in the eyes of the people of the region.,IN DT NNS IN NNP VBD DT NN IN DT NN POS NN VBD JJ IN DT NNS IN DT NNS IN DT NN .
+1,9,"Eventually, the issue reached the ears of the kindly Lord of the Manor who the people had often asked for help.","RB , DT NN VBD DT NNS IN DT RB NNP IN DT NNP WP DT NNS VBD RB VBN IN NN ."
+1,10,The Lord saw the severity of the problem the people faced and suggested a contest could solve the problem.,DT NNP VBD DT NN IN DT NN DT NNS VBD CC VBD DT NN MD VB DT NN .
+1,11,He said that whoever could kill the boar and bring as proof its head to the Manor House would be rewarded with land and fame.,PRP VBD IN WP MD VB DT NN CC VB RB JJ PRP$ NN TO DT NNP MD VB VBN IN NN CC NN .
+1,12,It was the people of Bradford and the people who knew them who rejoiced at this proclamation but one question remained: who would kill the boar?,PRP VBD DT NNS IN NNP CC DT NNS WP VBD PRP WP VBD IN DT NN CC CD NN VBD : WP MD VB DT NN .
+1,13,"By the handsome reward many felt tempted, but the thought of the boar with its deadly tusks and face like thunder soon put an end to their ambitions.","IN DT JJ NN JJ VBD JJ , CC DT NN IN DT NN IN PRP$ JJ NNS CC NN IN NN RB VBD DT NN TO PRP$ NNS ."
+1,14,"However, there was one huntsman, who was still wet behind the ears, who decided the prize was worth a shot, in spite of the boar's reputation.","RB , EX VBD CD NN , WP VBD RB JJ IN DT NNS , WP VBD DT NN VBD JJ DT NN , IN NN IN DT NN POS PRP$ NN ."
+1,15,The huntsman discovered the boar preferred to come out in the middle of the day.,DT NN VBD DT NN VBD TO VB RB IN DT NN IN DT NN .
+1,16,"So he went to the wood by the well with his good bow, to bide his time.","IN PRP VBD TO DT NN IN DT NN IN PRP$ JJ NN , TO VB PRP$ NN ."
+1,17,"Around noontime, the boar, feared by the locals, came out, as slow as a snail, from among the trees, just as the huntsman had predicted.","IN NN , DT NN , VBN IN DT NNS , VBD RB , RB JJ IN DT NN , IN DT NNS , RB IN DT NN VBD VBN ."
+1,18,The huntsman leaped from his hiding place and through the heart with his fine arrows shot the boar.,DT NN VBD IN PRP$ VBG NN CC IN DT NN IN PRP$ JJ NNS VBD DT NN .
+1,19,Now the problem was no longer to kill the boar.,RB DT NN VBD RB JJR TO VB DT NN .
+1,20,It was to find a way to carry the boar back.,PRP VBD TO VB DT NN TO VB DT NN RB .
+1,21,"The head was too heavy for the little huntsman to carry back to the Manor House, but the huntsman, who was as quick-witted and cunning as ever, asked himself, 'What else can I do to prove I killed the boar?'","DT NN VBD RB JJ IN DT JJ NN TO VB RB TO DT NNP , CC DT NN , WP VBD RB JJ : JJ CC JJ IN RB , VBD PRP , '' WP RB MD PRP VB TO VB PRP VBD DT NN . ''"
+1,22,"The next instance he opened the boar's mouth and cut out its tongue, taking that as proof for the Lord.","DT JJ NN PRP VBD DT NN POS PRP$ NN CC VBD RP PRP$ NN , VBG DT IN NN IN DT NNP ."
+1,23,"He set out for the Manor House as quickly as he could and he had only been gone a few minutes when a second huntsman, not so bold as the first but a little more cunning, came on the scene.","PRP VBD RP IN DT NNP RB IN PRP MD CC PRP VBD RB VBN DT JJ NNS WRB DT JJ NN , RB JJ IN DT JJ CC DT JJ JJR JJ , VBD IN DT NN ."
+1,24,"Seeing the slain carcass of the boar, the huntsman rejoiced in his good fortune.","VBG DT JJ NN IN DT NN , DT NN VBD IN PRP$ JJ NN ."
+1,25,"The second huntsman knew a shortcut to the Manor House was just around the nearby pond, and, being a bigger man than the first, was able to pick up the boar's head and carry it through the wood towards the prize that awaited him.","DT JJ NN VBD DT NN TO DT NNP VBD RB IN DT JJ NN , CC , VBG DT JJR NN IN DT JJ , VBD JJ TO VB RP DT NN POS PRP$ NN CC VB PRP IN DT NN IN DT NN WDT VBD PRP ."
+1,26,The Lord of the Manor was seated in his hall when the second huntsman burst through the door and began to spin a line.,DT NNP IN DT NNP VBD VBN IN PRP$ NN WRB DT JJ NN IN DT NN CC VBD TO VB DT NN .
+1,27,'The woes of Bradford are ended!','' DT NNS IN NNP VBP VBN . ''
+1,28,he announced.,PRP VBD .
+1,29,'With my own hand I have slain the boar!','' IN PRP$ JJ NN PRP VBP VBN DT NN . ''
+1,30,"And, with that, at the feet of his lord he dropped the boar's enormous head.","CC , IN DT , IN DT NNS IN PRP$ NN PRP VBD DT NN POS JJ NN ."
+1,31,"'Then you will be rewarded, as I promised.'","'' RB PRP MD VB VBN , IN PRP VBD . ''"
+1,32,"'But first, let me examine the head of this monster,' said the Lord of the Manor.","'' CC RB , VB PRP VB DT NN IN DT NN , '' VBD DT NNP IN DT NNP ."
+1,33,To not examine the head in advance had not been very clever on the part of the huntsman.,TO RB VB DT NN IN NN VBD RB VBN RB JJ IN DT NN IN DT NN .
+1,34,"Right away, the Lord noticed the tongue of the boar was missing and exclaimed, 'What is this?","RB , DT NNP VBD DT NN IN DT NN VBD VBG CC VBD , '' WP VBZ DT ."
+1,35,A boar with no tongue?',DT NN IN DT NN . ''
+1,36,"He looked at the huntsman, dubiously.","PRP VBD IN DT NN , RB ."
+1,37,'How come this creature has no tongue?','' WRB VBN DT NN VBZ DT NN . ''
+1,38,he demanded.,PRP VBD .
+1,39,All eyes were on the huntsman.,DT NNS VBD IN DT NN .
+1,40,"The huntsman questioned by the Lord replied, 'I cannot say, my Lord.'","DT NN VBN IN DT NNP VBD , '' PRP MD VB , PRP$ NNP . ''"
+1,41,He was suddenly realizing his tricky situation could end badly for him.,PRP VBD RB VBG PRP$ JJ NN MD VB RB IN PRP .
+1,42,"Through the door at this moment, the first huntsman burst.","IN DT NN IN DT NN , DT JJ NN ."
+1,43,'The woes of Bradford are ended!','' DT NNS IN NNP VBP VBN . ''
+1,44,he cried.,PRP VBD .
+1,45,'I have slain the boar the people of Bradford dreaded!','' PRP VBP VBN DT NN DT NNS IN NNP VBD . ''
+1,46,All eyes turned to the man who now stood in the doorway.,DT NNS VBD TO DT NN WP RB VBD IN DT NN .
+1,47,"'The reward is already given,' said the Lord of the Manor.","'' DT NN VBZ RB VBN , '' VBD DT NNP IN DT NNP ."
+1,48,'The man here has brought to me the boar's head.','' DT NN RB VBZ VBN TO PRP DT NN POS PRP$ NN . ''
+1,49,'Then where is its tongue?','' RB WRB VBZ PRP$ NN . ''
+1,50,the first huntsman replied.,DT JJ NN VBD .
+1,51,"And, so saying, he drew out the boar's tongue he had put in his hunting pouch and related how he had ambushed the creature in the wood and cut out its tongue as proof of his victory.","CC , RB VBG , PRP VBD RP DT NN POS PRP$ NN PRP VBD VBN IN PRP$ NN CC VBN WRB PRP VBD VBN DT NN IN DT NN CC VBN RP PRP$ NN IN NN IN PRP$ NN ."
+1,52,"Listening to the tale, the Lord of the Manor tried to discern which huntsman was telling him the truth and what the two huntsmen were thinking as they waited for him to make a decision.","VBG TO DT NN , DT NNP IN DT NNP VBD TO VB WDT NN VBD VBG PRP DT NN CC WP DT CD NNS VBD VBG IN PRP VBD IN PRP TO VB DT NN ."
+1,53,"Almost instantly, the Lord saw that the second huntsman had fed him a pack of lies and it was the first huntsman who was the true savior of Bradford.","RB , DT NNP VBD IN DT JJ NN VBD VBN PRP DT NN IN NNS CC PRP VBD DT JJ NN WP VBD DT JJ NN IN NNP ."
+1,54,The Lord believed the second huntsman had tried to steal the first huntsman's prize and so proclaimed the first huntsman the true victor.,DT NNP VBD DT JJ NN VBD VBN TO VB DT JJ NN POS PRP$ NN CC RB VBD DT JJ NN DT JJ NN .
+1,55,The Lord wondered for a moment why he always encountered so much chicanery in his everyday interactions.,DT NNP VBD IN DT NN WRB PRP RB VBD RB JJ NN IN PRP$ JJ NNS .
+1,56,"The huntsman who had earned his prize fair and square received as his reward a piece of land just outside the town, known thereafter as Hunt Yard.","DT NN WP VBD VBN PRP$ NN CC NN VBD IN PRP$ NN DT NN IN NN RB IN DT NN , VBN RB IN NNP ."
+1,57,"His fame was indeed assured, but it was not nearly as lasting as that of the fearsome Bradford Boar.","PRP$ NN VBD RB VBN , CC PRP VBD RB JJ IN DT IN DT JJ NNP ."
+2,58,"A clear and joyous day it was and out on the wide open sea, thousands upon thousands of sparkling water drops, excited by getting to play in the ocean, danced all around.","DT JJ CC JJ NN PRP VBD CC IN DT JJ NN , NNS IN NNS IN JJ NN NNS , VBN IN VBG TO VB IN DT NN , VBD DT RB ."
+2,59,"One of these was a merry little fellow named Aqua, who danced on the silver backs of the fishes as they plunged up and down in the waves, and, no matter how high he sprung, he always came down again into his mother's lap.","CD IN DT VBD DT JJ NN VBN NNP , WP VBD IN DT JJ NNS IN DT NNS IN PRP VBD IN CC IN DT NNS , CC , DT NN WRB JJ PRP VBD , PRP RB VBD RB IN PRP$ NN POS PRP$ NN ."
+2,60,"His mother, you know, was the ocean, and very beautiful she looked that summer day in her dark blue dress and white ruffles.","PRP$ NN , PRP VBP , VBD DT NN , CC RB JJ PRP VBD DT NN IN PRP$ JJ NN CC JJ NNS ."
+2,61,"By and by, the happy water drop tired of his play, and looking up to the clear sky above him, thought he would like to have a sail on one of the white, marshmallow-like clouds, instead of spending his whole life in the ocean.","IN CC IN , DT JJ NN VBN IN PRP$ NN , CC VBG IN TO DT JJ NN IN PRP , VBD PRP MD VB TO VB DT NN IN CD IN DT JJ , JJ : JJ NNS , RB IN VBG PRP$ JJ NN IN DT NN ."
+2,62,"Of the sky, little Aqua had always been afraid, but he decided to finally face his demons and suggested a solution involving the sun carrying him up to the sky would be ideal.","IN DT NN , JJ NNP VBD RB VBN JJ , CC PRP VBD TO RB VB PRP$ NNS CC VBD DT NN VBG DT NN VBG PRP IN TO DT NN MD VB JJ ."
+2,63,"The sun understood Aqua's request came from his heart, so he acquiesced and also took ever so many other drops, so that Aqua might not be lonesome on the way.","DT NN VBD NNP POS PRP$ NN VBD IN PRP$ NN , IN PRP VBD CC RB VBD RB JJ NNS , IN NNP MD RB VB JJ IN DT NN ."
+2,64,"It was only the sun that knew this, however, for all the other drops had been changed into fine mist or vapor and Aqua could not see them.","PRP VBD RB DT NN WDT VBD DT , RB , IN PDT DT JJ NNS VBD VBN IN JJ NN CC NN CC NNP MD RB VB PRP ."
+2,65,Do you know what vapor is?,VBP PRP VB WP NN VBZ .
+2,66,"If you breathe into the air, when it is cold enough, you will see it coming out of your mouth thick and fast like steam.","IN PRP VBP IN DT NN , WRB PRP VBZ JJ RB , PRP MD VB PRP VBG IN PRP$ NN JJ CC RB IN NN ."
+2,67,"When the vapor is quite near the earth, we call it 'fog'.","WRB DT NN VBZ RB IN DT NN , PRP VBP PRP '' NN '' ."
+2,68,"Into vapor the water drops that danced in the ocean had been changed, because in their own shape they were too heavy for the sunbeams that the sun let out to carry.","IN NN DT NN NNS WDT VBD IN DT NN VBD VBN , IN PRP$ JJ NN PRP VBD RB JJ IN DT NNS IN DT NN VBD RP TO VB ."
+2,69,"Higher and higher they sailed, and though it was grand, Aqua and his friends were like fish out of water, so they grew quite dizzy.","RBR CC RBR PRP VBD , CC IN PRP VBD JJ , NNP CC PRP$ NNS VBD IN NN IN NN , IN PRP VBD RB JJ ."
+2,70,"They enjoyed looking down on the world below, while the wind scattered them across the four corners of the earth, but after a while it grew nearly time for the sun to go to bed.","PRP VBD VBG RB IN DT NN IN , IN DT NN VBD PRP IN DT CD NNS IN DT NN , CC IN DT NN PRP VBD RB NN IN DT NN TO VB TO NN ."
+2,71,"He became very red in the face, and began to sink lower and lower, until suddenly he went clear out of sight!","PRP VBD RB JJ IN DT NN , CC VBD TO VB RBR CC RBR , IN RB PRP VBD JJ IN NN ."
+2,72,"Poor little Aqua, frightened by the impending cold and darkness, wished he could sleep not in the sky, but somewhere closer to earth.","JJ NNP , VBN IN DT JJ NN CC NN , VBD PRP MD VB RB IN DT NN , CC RB JJR TO NN ."
+2,73,Then Aqua heard the wind blow and conjectured that maybe the wind could take him back down to the ocean.,RB NNP VBD DT NN VB CC VBD IN RB DT NN MD VB PRP RB IN TO DT NN .
+2,74,"Indeed, the wind took pity on him and fanned him, together with all of his brothers and sisters, into a heavy gray cloud, after which he blew them apart and told them to hurry down, fast and furious to the earth, so they could have a fighting chance of reaching the ocean.","RB , DT NN VBD NN IN PRP CC VBD PRP , RB IN DT IN PRP$ NNS CC NNS , IN DT JJ NN , IN WDT PRP VBD PRP RB CC VBD PRP TO VB RB , RB CC JJ TO DT NN , IN PRP MD VB DT VBG NN IN VBG DT NN ."
+2,75,"Down they went, rolling over each other until with a patter and clatter and spatter they touched the ground, and all the people that the raindrops fell on cried, 'It's raining', and took out their umbrellas.","RB PRP VBD , VBG IN DT JJ IN DT NN CC NN CC NN PRP VBD DT NN , CC PDT DT NNS IN DT NNS VBD IN VBD , '' PRP VBZ VBG '' , CC VBD RP PRP$ NNS ."
+2,76,"Some of the drops that were the most fortunate, including Aqua, fell on a mountainside, and down the rocky cliff they ran.","DT IN DT NNS WDT VBD DT RBS JJ , VBG NNP , VBD IN DT NN , CC IN DT JJ NN PRP VBD ."
+2,77,"Together they plunged into a mountain brook, which came foaming and dashing along, leaping over rocks and rushing down the hillside, until in the valley below they heard the strangest clattering noise.","RB PRP VBD IN DT NN , WDT VBD VBG CC VBG RB , VBG IN NNS CC VBG IN DT NN , IN DT NN IN PRP VBD DT JJS VBG NN ."
+2,78,The little water drops were then able to make out a flour mill that was standing on the bank.,DT JJ NN NNS VBD RB JJ TO VB RP DT NN WDT VBD VBG IN DT NN .
+2,79,"Inside the mill, the water drops saw two great stones, which the big wheel kept whizzing round and round.","IN DT NN , DT NN NNS VBD CD JJ NNS , WDT DT JJ NN VBD VBG RB CC RB ."
+2,80,"The stones, smoothed by the spinning, were busy grinding the wheat into flour and the corn into golden meal.","DT NNS , VBN IN DT NN , VBD JJ VBG DT NN IN NN CC DT NN IN JJ NN ."
+2,81,But what giant do you suppose it was who could turn and swing that tremendous wheel?,CC WP NN VBP PRP VB PRP VBD WP MD VB CC VB DT JJ NN .
+2,82,No giant at all.,DT NN IN DT .
+2,83,"It was just our tiny little water drops, who sprang on it by hundreds and thousands, and whirled it over and over.","PRP VBD RB PRP$ JJ NN NNS , WP VBD IN PRP IN NNS CC NNS , CC VBD PRP RB CC RB ."
+2,84,It was lucky for the water drops that the brook where they were swimming next emptied into a beautiful pond where ducks and geese were living peacefully.,PRP VBD JJ IN DT NN NNS IN DT NN WRB PRP VBD VBG JJ VBD IN DT JJ NN WRB NNS CC NN VBD VBG RB .
+2,85,"Aqua liked to play hide-and-seek in this pond, and it was his brother water drop who he fooled by swimming to a big pool of water and pretending to hide there, but then sneaking under a rock into an obscured little puddle.","NNP VBD TO VB NN : JJ : JJ IN DT NN , CC PRP VBD PRP$ NN WP PRP VBD IN VBG TO DT JJ NN IN NN CC VBG TO VB RB , CC RB VBG IN DT NN IN DT JJ NN ."
+2,86,"His brother had blatantly peeked and even followed Aqua as he entered the big pool of water, so when he searched there and could not find him, he was extremely surprised and gave up.","PRP$ NN VBD RB VBN CC RB VBN NNP IN PRP VBD DT JJ NN IN NN , RB WRB PRP VBD RB CC MD RB VB PRP , PRP VBD RB JJ CC VBD RP ."
+2,87,"Aqua liked this pond where he could play all day, so he stayed a good while, sailing up and down, taking the ducks' backs for ships and the frogs for horses, but after a time he tired of the dull life, and he and his brothers floated under a bridge for a long distance, until they saw another brook tumbling down a hillside.","NNP VBD DT NN WRB PRP MD VB DT NN , IN PRP VBD DT JJ NN , VBG IN CC RB , VBG DT NNS POS NNS IN NNS CC DT NNS IN NNS , CC IN DT NN PRP VBD IN DT JJ NN , CC PRP CC PRP$ NNS VBD IN DT NN IN DT JJ NN , IN PRP VBD DT NN VBG IN DT NN ."
+2,88,"'Come, let's join hands!'","'' RB , VB POS PRP VB NNS . ''"
+2,89,"cried Aqua and because the water drops were all together, overcoming the brook was child's play.","VBD NNP CC IN DT NN NNS VBD DT RB , VBG DT NN VBD NN POS JJ NN ."
+2,90,"It was by the help of Aqua and his brothers that the bewitching river was able to float heavy ships, though not so long ago it was only a little stream.","PRP VBD IN DT NN IN NNP CC PRP$ NNS IN DT VBG NN VBD JJ TO VB JJ NNS , IN RB PRP VBD RB DT JJ NN ."
+2,91,"As the river grew wider and he could almost see the ocean, Aqua realized his journey was almost over and he had come full circle.","IN DT NN VBD JJR CC PRP MD RB VB DT NN , NNP VBD PRP$ NN VBD RB CC PRP VBD VBN JJ NN ."
+2,92,"Back in the ocean, he felt right at home.","RB IN DT NN , PRP VBD RB IN NN ."
+2,93,"For him, this was the safest, sweetest place in the whole wide world.","IN PRP , DT VBD DT JJS , JJS NN IN DT JJ NN ."
+2,94,"During the warm summer evenings, if you take a walk on the sea beach, you will hear the gentle rippling swash of the waves and some say that it must be the gurgling voices of Aqua and his brother water drops telling each other about their wonderful journey around the world.","IN DT JJ NN NNS , IN PRP VBP DT NN IN DT NN , PRP MD VB DT JJ NN IN DT NNS CC DT VBP IN PRP MD VB DT VBG NNS IN NNP CC PRP$ NN NNS VBG DT JJ IN PRP$ JJ NN IN DT NN ."
+3,95,"It was cold and nearly dark on the last evening of the old year, and the snow was falling fast and furious.","PRP VBD JJ CC RB JJ IN DT JJ NN IN DT JJ NN , CC DT NN VBD VBG RB CC JJ ."
+3,96,"A little girl no one sheltered from the gelid air roamed through the streets with a bare head and naked feet, looking as poor as a church mouse.","DT JJ NN DT NN VBD IN DT JJ NN VBD IN DT NNS IN DT JJ NN CC JJ NNS , VBG RB JJ IN DT NN ."
+3,97,"It's true she had on a pair of slippers her mother had once given her when she left home, but they were as much use to her as a chocolate teapot.","PRP VBZ JJ PRP VBD IN DT NN IN NNS PRP$ NN VBD RB VBN PRP WRB PRP VBD NN , CC PRP VBD RB JJ NN TO PRP IN DT NN ."
+3,98,The slippers owned by her mother were so large that the emaciated little creature had lost them while running across the street to avoid two carriages that were rolling along at a terrible rate.,DT NNS VBN IN PRP$ NN VBD RB JJ IN DT JJ NN VBD VBN PRP IN VBG IN DT NN TO VB CD NNS WDT VBD VBG RB IN DT JJ NN .
+3,99,"One of the slippers she could not find, and a boy seized upon the other, saying that he could use it as a home for his little pet mouse.","CD IN DT NNS PRP MD RB VB , CC DT NN VBD IN DT JJ , VBG IN PRP MD VB PRP IN DT NN IN PRP$ JJ NN ."
+3,100,"So with her naked feet, which were quite red and blue with the cold, the little girl went on, wondering how she would get through this dreadful night.","RB IN PRP$ JJ NNS , WDT VBD RB JJ CC JJ IN DT NN , DT JJ NN VBD RB , VBG WRB PRP MD VB IN DT JJ NN ."
+3,101,"She approached an old hovel she had used as a shelter a few times before, and found the entrance was locked.","PRP VBD DT JJ NN PRP VBD VBN IN DT NN DT JJ NNS RB , CC VBD DT NN VBD VBN ."
+3,102,Tough luck for the girl!,JJ NN IN DT NN .
+3,103,This day was even worse than the others.,DT NN VBD RB JJR IN DT NNS .
+3,104,No Good Samaritan had given her even a penny.,DT NNP VBD VBN PRP RB DT NN .
+3,105,And she had no luck selling any matches that she carried in the old apron her grandmother had given her.,CC PRP VBD DT NN VBG DT NNS IN PRP VBD IN DT JJ NN PRP$ NN VBD VBN PRP .
+3,106,"Poor little child, she looked the picture of misery.","JJ NN , PRP VBD DT NN IN NN ."
+3,107,"On her long, fair hair, which hung in curls on her shoulders, the snowflakes kept landing, but she did not notice them as she shivered along.","IN PRP$ JJ , JJ NN , WDT VBD IN NNS IN PRP$ NNS , DT NNS VBD VBG , CC PRP VBD RB VB PRP IN PRP VBD RB ."
+3,108,She was losing strength and beginning to doubt she could weather this storm.,PRP VBD VBG NN CC VBG TO VB PRP MD VB DT NN .
+3,109,"It was New Year's, and the girl asked herself why, as lights shone from every window, and the savory smell of roast goose crept out on the streets, she was outside all alone.","PRP VBD NNP POS , CC DT NN VBD PRP WRB , IN NNS VBD IN DT NN , CC DT JJ NN IN NN VBD IN DT NNS , PRP VBD IN DT RB ."
+3,110,"Exhausted, she finally sat down in a corner behind the little bakery.","VBN , PRP RB VBD RP IN DT NN IN DT JJ NN ."
+3,111,"She put a rag she had found over her legs to cover herself, but she could not keep off the cold.","PRP VBD DT NN PRP VBD VBN IN PRP$ NNS TO VB PRP , CC PRP MD RB VB RP DT NN ."
+3,112,"The girl, who the night air had completely enveloped, dared not go home, for she had sold no matches.","DT NN , WP DT NN VBD RB VBN , VBD RB VB RB , IN PRP VBD VBN DT NNS ."
+3,113,Her father had been mean and moody ever since his wife had gone to meet her Maker.,PRP$ NN VBD VBN JJ CC JJ RB IN PRP$ NN VBD VBN TO VB PRP$ NNP .
+3,114,"He would certainly beat her, as he has done several times in the weeks past, because she had not earned any money today.","PRP MD RB VB PRP , IN PRP VBZ VBN JJ NNS IN DT NNS NN , IN PRP VBD RB VBN DT NN ."
+3,115,"Besides, it was almost as cold at home as outside, for they had only a patchy roof to cover them.","IN , PRP VBD RB JJ IN NN IN RB , IN PRP VBD RB DT JJ NN TO VB PRP ."
+3,116,The girl's little hands were almost frozen solid so she decided that a burning match might be of some good.,DT NN POS JJ NNS VBD RB VBN JJ IN PRP VBD IN DT VBG NN MD VB IN DT JJ .
+3,117,'Scratch!','' VB . ''
+3,118,sounded the match as she drew it out.,VBD DT NN IN PRP VBD PRP RP .
+3,119,How it sputtered as it burnt!,WRB PRP VBD IN PRP VBD .
+3,120,"It gave a warm, candle-like bright light that the girl hid from the world as she held her hand over it.","PRP VBD DT JJ , JJ : JJ NN IN DT NN VBD IN DT NN IN PRP VBD PRP$ NN IN PRP ."
+3,121,Why had no one wanted to buy even one match?,WRB VBD DT NN VBN TO VB RB CD NN .
+3,122,"A wonderful light, it was really.","DT JJ NN , PRP VBD RB ."
+3,123,"It seemed to the girl that she was sitting by a large iron stove, with polished brass feet and a brass ornament.","PRP VBD TO DT NN IN PRP VBD VBG IN DT JJ NN , IN VBN NN NNS CC DT NN ."
+3,124,How the fire burned!,WRB DT NN VBD .
+3,125,"The girl was pleased and the fire actually seemed so warm that the child stretched out her feet as if to warm them, when suddenly the flame of the match went out.","DT NN VBD JJ CC DT NN RB VBD RB JJ IN DT NN VBD RP PRP$ NNS IN TO VB PRP , WRB RB DT NN IN DT NN VBD RP ."
+3,126,"It was a short, stubby match that the little girl next rubbed on the wall.","PRP VBD DT JJ , JJ NN IN DT JJ NN JJ VBD IN DT NN ."
+3,127,"It burst into a flame, and lo and behold, the girl was transported from her dank city to a beautiful, sunny forest.","PRP VBD IN DT NN , CC VB CC VB , DT NN VBD VBN IN PRP$ JJ NN TO DT JJ , JJ NN ."
+3,128,She heard the birds chirping and she was surrounded by wildflowers and birches as white as snow.,PRP VBD DT NNS VBG CC PRP VBD VBN IN NNS CC NNS RB JJ IN NN .
+3,129,A little squirrel hid some food in the ground and scurried off into the underbrush.,DT JJ NN VBD DT NN IN DT NN CC VBD RP IN DT NN .
+3,130,"The girl was curious, so she dug some squirrel food up to see what it was, but then she forgot to put it back.","DT NN VBD JJ , IN PRP VBD DT NN RP TO VB WP PRP VBD , CC RB PRP VBD TO VB PRP RB ."
+3,131,"The squirrel came back and looked in its hiding place, but the food was nowhere to be found.","DT NN VBD RB CC VBD IN PRP$ VBG NN , CC DT NN VBD RB TO VB VBN ."
+3,132,"Then the match went out, and it wasn't the forest that remained before her eyes.","RB DT NN VBD RB , CC PRP VBD RB DT NN WDT VBD IN PRP$ NNS ."
+3,133,"It was only the thick, damp, cold wall.","PRP VBD RB DT JJ , JJ , JJ NN ."
+3,134,"The girl looked despondently into the sky that was now fully darkened and suddenly she saw a star fall, leaving behind it a bright streak of fire.","DT NN VBD RB IN DT NN WDT VBD RB VBN CC RB PRP VBD DT NN , VBG IN PRP DT JJ NN IN NN ."
+3,135,"'Someone is dying,' thought the little girl.","'' NN VBZ VBG , '' VBD DT JJ NN ."
+3,136,"It was her old grandmother, the one who had loved her the most, and the one who the girl used to visit every Sunday, who had told her that when a star falls, a soul leaves this earth.","PRP VBD PRP$ JJ NN , DT NN WP VBD VBN PRP DT JJS , CC DT NN WP DT NN VBD TO VB DT NNP , WP VBD VBN PRP IN WRB DT NN VBZ , DT NN VBZ DT NN ."
+3,137,It was her last match that the little girl now rubbed on the wall and the light again shone round her.,PRP VBD PRP$ JJ NN IN DT JJ NN RB VBD IN DT NN CC DT NN RB VBD IN PRP .
+3,138,"Her old grandmother in the brightness stood, loving in her appearance.","PRP$ JJ NN IN DT NN VBD , VBG IN PRP$ NN ."
+3,139,"The girl understood her grandmother would soon disappear, but she tried to play for time.","DT NN VBD PRP$ NN MD RB VB , CC PRP VBD TO VB IN NN ."
+3,140,"'Grandmother,' cried the little one, 'O take me with you!","'' NN , '' VBD DT JJ NN , '' UH VB PRP IN PRP ."
+3,141,I know you will go away when the match burns out!',PRP VBP PRP MD VB RB WRB DT NN VBZ RP . ''
+3,142,"The girl decided to light the whole bundle of matches, in order to keep her grandmother there.","DT NN VBD TO VB DT JJ NN IN NNS , IN NN TO VB PRP$ NN RB ."
+3,143,"The girl saw the matches glowed with a light that was brighter than the day, and her grandmother had never appeared so large or so beautiful as she did in the light of the little matches.","DT NN VBD DT NNS VBD IN DT NN WDT VBD JJR IN DT NN , CC PRP$ NN VBD RB VBN RB JJ CC RB JJ IN PRP VBD IN DT NN IN DT JJ NNS ."
+3,144,"The grandmother then took the little girl in her arms, and they both flew upwards in brightness and joy far above the earth, where there was neither cold nor hunger, and the little girl felt safe and peaceful.","DT NN RB VBD DT JJ NN IN PRP$ NNS , CC PRP DT VBD RB IN NN CC NN RB IN DT NN , WRB EX VBD DT NN CC NN , CC DT JJ NN VBD JJ CC JJ ."
+3,145,"In the dawn of the morning there lay the poor little one, not frowning, but smiling and with a pale face leaning against the wall, frozen and stone dead.","IN DT NN IN DT NN EX VBD DT JJ NN , RB VBG , CC VBG CC IN DT JJ NN VBG IN DT NN , JJ CC NN JJ ."
+3,146,"'She tried to warm herself,' said some.","'' PRP VBD TO VB PRP , '' VBD DT ."
+3,147,Children who saw her were asking their parents why no one helped the girl who they knew looked dirt poor and helpless.,NNS WP VBD PRP VBD VBG PRP$ NNS WRB DT NN VBD DT NN WP PRP VBD JJ CC JJ .
+3,148,"Passersby who saw her sitting motionless wished they could have helped the girl, but their good intentions were a day late and a dollar short.","NNP WP VBD PRP VBG RB VBD PRP MD VB VBN DT NN , CC PRP$ JJ NNS VBD DT NN JJ CC DT NN JJ ."
+3,149,"Other people suspected the girl had fallen asleep and frozen, but no one imagined what beautiful things she had seen, nor into what glory she had entered with her grandmother, on New Year's day.","JJ NNS VBD DT NN VBD VBN JJ CC VBN , CC DT NN VBD WP JJ NNS PRP VBD VBN , CC IN WDT NN PRP VBD VBN IN PRP$ NN , IN NNP POS DT NN ."
+4,150,"Once upon a time the birds took it into their heads that they would like a master, and that one of their number must be chosen king.","RB IN DT NN DT NNS VBD PRP IN PRP$ NNS IN PRP MD VB DT NN , CC IN CD IN PRP$ NN MD VB VBN NN ."
+4,151,"A meeting of all the birds was called and though they understood the birds who were from the most distant lands would be unable to come, many birds came from faraway meadows and woods.","DT NN IN PDT DT NNS VBD VBN CC IN PRP VBD DT NNS WP VBD IN DT RBS JJ NNS MD VB JJ TO VB , JJ NNS VBD IN JJ NNS CC NNS ."
+4,152,"The eagle, who already thought himself the de facto king, arrived fashionably late.","DT NN , WP RB VBD PRP DT FW NN , VBD RB ."
+4,153,"It was a hawk who was most excited about the meeting, because he was the dark horse for king.","PRP VBD DT NN WP VBD RBS JJ IN DT NN , IN PRP VBD DT JJ NN IN NN ."
+4,154,"The small fry came too, and the robin, the bluebird, the owl, the lark, and the sparrow, who had only a chance in a million to be king, were all present at the meeting.","DT JJ NN VBD RB , CC DT NN , DT NN , DT NN , DT NN , CC DT NN , WP VBD RB DT NN IN DT CD TO VB NN , VBD RB JJ IN DT NN ."
+4,155,"The cuckoo, who was almost not invited because his call so annoyed the other birds, came too.","DT NN , WP VBD RB VBN IN PRP$ NN RB JJ DT JJ NNS , VBD RB ."
+4,156,"It was the very little bird who had no name at all, however, that would end up overturning the balance of power among the birds.","PRP VBD DT RB JJ NN WP VBD DT NN IN DT , RB , WDT MD VB RP VBG DT NN IN NN IN DT NNS ."
+4,157,"That there would be great confusion and noise among the birds at the meeting was to be expected, given the sheer numbers of birds that have gathered.","IN EX MD VB JJ NN CC NN IN DT NNS IN DT NN VBD TO VB VBN , VBN DT JJ NNS IN NNS WDT VBP VBN ."
+4,158,"There was piping, hissing, and clacking, but finally it was decided that the bird that could fly the highest should be king.","EX VBD VBG , VBG , CC VBG , CC RB PRP VBD VBN IN DT NN WDT MD VB DT JJS MD VB NN ."
+4,159,"The little bird lay low near the eagle at first, but the eagle did not notice the bird hopping onto his back right as the competition was about to commence.","DT JJ NN VBD RB IN DT NN IN JJ , CC DT NN VBD RB VB DT NN VBG IN PRP$ NN RB IN DT NN VBD IN TO VB ."
+4,160,Into the air in a great flock all the birds flew when the signal was given.,IN DT NN IN DT JJ NN PDT DT NNS VBD WRB DT NN VBD VBN .
+4,161,"The air was full of dust, and it seemed as if a black cloud were floating over the field.","DT NN VBD JJ IN NN , CC PRP VBD IN DT JJ NN VBD VBG IN DT NN ."
+4,162,You could hear the birds chirping and flapping from fields that were miles away.,PRP MD VB DT NNS VBG CC VBG IN NNS WDT VBD NNS RB .
+4,163,The little birds that soon grew tired fell back quickly to earth.,DT JJ NNS WDT RB VBD JJ VBD RB TO NN .
+4,164,"The fact that the larger ones held out longer, and flew higher and higher, but the eagle flew highest of any, surprised no one.","DT NN IN DT JJR NNS VBD RP RBR , CC VBD JJR CC JJR , CC DT NN VBD JJS IN DT , VBD DT NN ."
+4,165,Could anyone stop the eagle that seemed to be flying straight into the sun?,MD NN VB DT NN WDT VBD TO VB VBG RB IN DT NN .
+4,166,"The other birds gave out one by one and when the eagle saw this he thought, 'What is the use of flying any higher?","DT JJ NNS VBD RP CD IN CD CC WRB DT NN VBD DT PRP VBD , '' WP VBZ DT NN IN VBG DT RBR ."
+4,167,This victory is in the bag and I am king!',DT NN VBZ IN DT NN CC PRP VBP NN . ''
+4,168,"Then the birds below called with one accord, 'Come back, come back!","RB DT NNS IN VBD IN CD NN , '' VB RB , VB RB ."
+4,169,It is you who must be our king because no one can fly as high as you.',PRP VBZ PRP WP MD VB PRP$ NN IN DT NN MD VB RB IN PRP . ''
+4,170,'Except me!','' IN PRP . ''
+4,171,"cried a shrill, shrill voice, and out of the blue the little bird without a name rose from the eagle's back, where he had lain hidden in the feathers.","VBD DT JJ , JJ NN , CC IN DT NN DT JJ NN IN DT NN VBD IN DT NN POS PRP$ NN , WRB PRP VBD VBN IN DT NNS ."
+4,172,"His guile was the ace up his sleeve, and he laughed to himself at how easy it had been to outwit the other birds.","PRP$ NN VBD DT NN IN PRP$ NN , CC PRP VBD TO PRP IN WRB JJ PRP VBD VBN TO VB DT JJ NNS ."
+4,173,"Higher and higher he mounted, until he was lost to sight, and then folding his wings together, he sank to earth crying shrilly, 'I am king, I am king!'","RBR CC RBR PRP VBD , IN PRP VBD VBN TO NN , CC RB VBG PRP$ NNS RB , PRP VBD TO NN VBG RB , '' PRP VBP NN , PRP VBP NN . ''"
+4,174,The eagle tricked by the little bird had not sensed the bird in his feathers and so had not at all expected the bird to come flying out like that.,DT NN VBN IN DT JJ NN VBD RB VBN DT NN IN PRP$ NNS CC RB VBD RB IN DT VBN DT NN TO VB VBG RB IN DT .
+4,175,The birds back on earth were all up in arms.,DT NNS RB IN NN VBD DT IN NNS .
+4,176,"'You, and not the eagle, our king?'","'' PRP , CC RB DT NN , PRP$ NN . ''"
+4,177,"the birds cried, fuming with anger.","DT NNS VBD , VBG IN NN ."
+4,178,"'You have done this by breaking every rule in the book, so we will not have you, who are simply tricky and cunning, to reign over us.'","'' PRP VBP VBN DT IN VBG DT NN IN DT NN , IN PRP MD RB VB PRP , WP VBP RB JJ CC JJ , TO VB IN PRP . ''"
+4,179,"The bird without a name then decided to clear the air and said, 'Then let everyone start with a clean slate and perform a new challenging task.","DT NN IN DT NN RB VBD TO VB DT NN CC VBD , '' RB VB NN VB IN DT JJ NN CC VB DT JJ NN ."
+4,180,Then we can decide who should be the real king.',RB PRP MD VB WP MD VB DT JJ NN . ''
+4,181,"Then the birds gathered together again and decided the case would be resolved by making a new condition, which was that he should be king who could go the deepest into the earth.","RB DT NNS VBD RB CC VBD DT NN MD VB VBN IN VBG DT JJ NN , WDT VBD IN PRP MD VB NN WP MD VB DT JJS IN DT NN ."
+4,182,So the little bird who the other birds despised was now back to square one.,IN DT JJ NN WP DT JJ NNS VBD RB TO NN CD .
+4,183,"Confident, he remained, however, that if he played his cards right, he could be king.","JJ , PRP VBD , RB , IN PRP VBD PRP$ NNS RB , PRP MD VB NN ."
+4,184,"How the goose wallowed in the sand, and the duck strove to dig a hole for the new task!","WRB DT NN VBD IN DT NN , CC DT NN VBD TO VB DT NN IN DT JJ NN ."
+4,185,"All the other birds tried to hide themselves in the ground, too, until they were practically blue in the face.","PDT DT JJ NNS VBD TO VB PRP IN DT NN , RB , IN PRP VBD RB JJ IN DT NN ."
+4,186,"The nameless little bird that was as bold as brass found a pitch dark mouse's hole, and creeping in cried, 'I am king, I am king!'","DT JJ NN WDT VBD RB JJ IN NN VBD DT RB JJ NN POS DT NN , CC VBG IN VBD , '' PRP VBP NN , PRP VBP NN . ''"
+4,187,but it was of no avail.,CC PRP VBD IN DT NN .
+4,188,"'You, our king?'","'' PRP , PRP$ NN . ''"
+4,189,"all the remaining birds who the littlest bird had outwitted cried again, even more angrily than before.","PDT DT VBG NNS WP DT JJS NN VBD VBN VBD RB , RB RBR RB IN RB ."
+4,190,'Do you think we would reward your cunning in this way?,'' VBP PRP VB PRP MD VB PRP$ NN IN DT NN .
+4,191,"No, no!","UH , UH ."
+4,192,You shall stay in the earth till you die of hunger!',PRP MD VB IN DT NN IN PRP VBP IN NN . ''
+4,193,"So they shut up the little bird in the mouse's hole that the mouse gave up most unwillingly, and bade the owl watch him carefully night and day.","IN PRP VBD RP DT JJ NN IN DT NN POS DT NN IN DT NN VBD RP RBS RB , CC VBD DT NN VB PRP RB NN CC NN ."
+4,194,"Then all the birds went home to bed, for they were very tired, but the owl assigned by the birds to stand guard found his job was lonely and wearisome because he was just sitting alone staring at the mouse's hole.","RB PDT DT NNS VBD NN TO NN , IN PRP VBD RB JJ , CC DT NN VBN IN DT NNS TO VB NN VBD PRP$ NN VBD JJ CC JJ IN PRP VBD RB VBG RB VBG IN DT NN POS DT NN ."
+4,195,"'I can close one eye and watch with the other,' he thought.","'' PRP MD VB CD NN CC VB IN DT JJ , '' PRP VBD ."
+4,196,"So he closed one eye and stared steadfastly with the other, but before he knew it he forgot to keep that one open, and both eyes were fast asleep.","IN PRP VBD CD NN CC VBD RB IN DT JJ , CC IN PRP VBD PRP VBD TO VB DT CD JJ , CC DT NNS VBD RB JJ ."
+4,197,"Then the little bird guarded by the owl peeped out, and when he saw the owl's two eyes tight shut, he slipped from the hole and flew away.","RB DT JJ NN VBN IN DT NN VBD RP , CC WRB PRP VBD DT NN POS CD NNS RB VBN , PRP VBD IN DT NN CC VBD RB ."
+4,198,"He wanted to shout, 'I am king' so that the owl could hear him as he flew, but thought better of it.","PRP VBD TO VB , '' PRP VBP NN '' IN DT NN MD VB PRP IN PRP VBD , CC VBD RBR IN PRP ."
+4,199,"From this time on, the owl fooled by the little bird has not dared to show himself by day for fear the birds should beat the living daylights out of him.","IN DT NN IN , DT NN VBN IN DT JJ NN VBZ RB VBN TO VB PRP IN NN IN NN DT NNS MD VB DT VBG NNS IN PRP ."
+4,200,"He flies about only at nighttime, hating and pursuing not the bird, but the mouse for having made the hole into which the little bird crept.","PRP VBZ RB IN NN , VBG CC VBG RB DT NN , CC DT NN IN VBG VBN DT NN IN WDT DT JJ NN VBD ."
+4,201,"And the little bird also keeps out of sight, for he fears that the other birds should punish him for his cunning.","CC DT JJ NN RB VBZ IN NN , IN PRP VBZ IN DT JJ NNS MD VB PRP IN PRP$ NN ."
+4,202,The rejection by the other birds was a bitter pill to swallow for the nameless bird the owl had let slip away.,DT NN IN DT JJ NNS VBD DT JJ NN TO VB IN DT JJ NN DT NN VBD VBN VB RB .
+4,203,"He hides in the hedges, and when he thinks himself quite safe, he sings out, 'I am king, I am king!'","PRP VBZ IN DT NNS , CC WRB PRP VBZ PRP RB JJ , PRP VBZ RP , '' PRP VBP NN , PRP VBP NN . ''"
+4,204,"And the other birds in mockery call out, 'Yes, yes, the hedge-king, the hedge-king!'","CC DT JJ NNS IN NN VBP RP , '' UH , UH , DT NN : NN , DT NN : NN . ''"
+5,205,"At ten years old, I could not figure out what it was that this Elvis Presley guy had that the rest of us boys did not have.","IN CD NNS JJ , PRP MD RB VB RP WP PRP VBD IN DT NNP NN VBD IN DT NN IN PRP NNS VBD RB VB ."
+5,206,He seemed to be no different from the rest of us.,PRP VBD TO VB RB JJ IN DT NN IN PRP .
+5,207,"He was simply a man who had a head, two arms and two legs.","PRP VBD RB DT NN WP VBD DT NN , CD NNS CC CD NNS ."
+5,208,"It must have been something pretty superlative that he had hidden away, because he had every young girl at the orphanage wrapped around his little finger.","PRP MD VB VBN NN RB JJ IN PRP VBD VBN RB , IN PRP VBD DT JJ NN IN DT NN VBN IN PRP$ JJ NN ."
+5,209,"At about nine o'clock on Saturday morning, I figured a good solution was to ask Eugene Correthers, who was one of the older and smarter boys, what it was that made this Elvis guy so special.","IN CD RB POS NN IN NNP NN , PRP VBD DT JJ NN VBD TO VB NNP , WP VBD CD IN DT JJR CC JJR NNS , WP PRP VBD WDT VBD DT NNP NN RB JJ ."
+5,210,"He told me that it was not anything about Elvis's personality, but his wavy hair, and the way he moved his body.","PRP VBD PRP IN PRP VBD RB NN IN NNP POS PRP$ NN , CC PRP$ JJ NN , CC DT NN PRP VBD PRP$ NN ."
+5,211,"About a half an hour later, the boys in the orphanage called down to the main dining room by the matron were told that they were all going to downtown Jacksonville, Florida to get a new pair of Buster Brown shoes and a haircut.","IN DT PDT DT NN RB , DT NNS IN DT NN VBD RP TO DT JJ NN IN DT NN VBD VBN IN PRP VBD DT VBG TO NN NNP , NNP TO VB DT JJ NN IN NNP NNS CC DT NN ."
+5,212,"That is when I got this big idea, which hit me like a ton of bricks.","DT VBZ WRB PRP VBD DT JJ NN , WDT VBD PRP IN DT NN IN NNS ."
+5,213,"If the Elvis haircut was the big secret, then Elvis's haircut I was going to get.","IN DT NNP NN VBD DT JJ NN , RB NNP POS PRP$ NN PRP VBD VBG TO VB ."
+5,214,"I was going to have my day in the sun, and all the way to town that was all I talked about.","PRP VBD VBG TO VB PRP$ NN IN DT NN , CC PDT DT NN TO NN DT VBD DT PRP VBD IN ."
+5,215,"The fact that I was getting an Elvis haircut, not just the simple fact that we were getting out of the orphanage, made me particularly loquacious.","DT NN IN PRP VBD VBG DT NNP NN , RB DT JJ NN IN PRP VBD VBG IN DT NN , VBD PRP RB JJ ."
+5,216,"I told everybody, including the orphanage matron I normally feared, that I was going to look just like Elvis Presley and that I would learn to move around just like he did and that I would be rich and famous one day, just like him.","PRP VBD NN , VBG DT NN PRP RB VBD , IN PRP VBD VBG TO VB RB IN NNP CC IN PRP MD VB TO VB RB IN PRP VBD CC IN PRP MD VB JJ CC JJ CD NN , RB IN PRP ."
+5,217,The matron understood my idea was something that I was really excited about and said nothing.,DT NN VBD PRP$ NN VBD NN IN PRP VBD RB JJ IN CC VBD NN .
+5,218,"When I got my new Buster Brown shoes, I was smiling from ear to ear.","WRB PRP VBD PRP$ JJ NNP NNS , PRP VBD VBG IN NN TO NN ."
+5,219,"Those shoes, they shined really brightly, and I liked looking at the bones in my feet, which I had never seen before, through a special x-ray machine they had in the shoe store that made the bones in your feet look green.","DT NNS , PRP VBD RB , CC PRP VBD VBG IN DT NNS IN PRP$ NNS , WDT PRP VBD RB VBN RB , IN DT JJ NN PRP VBD IN DT NN WDT VBD DT NNS IN PRP$ NNS VB JJ ."
+5,220,"I was now almost ready to go back to the orphanage and practice being like the man who all the girls loved, since I had my new Buster Brown shoes.","PRP VBD RB JJ TO VB RB TO DT NN CC VB VBG IN DT NN WP PDT DT NNS VBD , IN PRP VBD PRP$ JJ NNP NNS ."
+5,221,"It was the new haircut, though, that I needed to complete my new look.","PRP VBD DT JJ NN , RB , IN PRP VBD TO VB PRP$ JJ NN ."
+5,222,"We finally arrived at the unassuming, unembellished barbershop, where they cut our hair for free because we were orphans.","PRP RB VBD IN DT JJ , JJ NN , WRB PRP VBD PRP$ NN IN JJ IN PRP VBD NNS ."
+5,223,"Even though we were supposed to slowly wait to be called, I ran straight up to one of the barber chairs and climbed up onto the board the barber placed across the arms to make me sit up higher.","RB IN PRP VBD VBN TO RB VB TO VB VBN , PRP VBD RB IN TO CD IN DT NN NNS CC VBD IN DT NN DT NN VBN IN DT NNS TO VB PRP VB RP RBR ."
+5,224,"I looked at the man and said, with a beaming smile on my face, 'I want an Elvis haircut.","PRP VBD IN DT NN CC VBD , IN DT VBG NN IN PRP$ NN , '' PRP VBP DT NNP NN ."
+5,225,Can you make my hair like Elvis's?',MD PRP VB PRP$ NN IN NNP POS . ''
+5,226,I asked.,PRP VBD .
+5,227,"The barber, who was a genial young man, grinned back at me and said that he would try his best.","DT NN , WP VBD DT JJ NN , VBD RP IN PRP CC VBD IN PRP MD VB PRP$ JJS ."
+5,228,"I was so happy when he started to cut my hair, but just as he started to cut, the matron, who had been watching me and had a look as cold as ice, motioned for him to come over to where she was standing.","PRP VBD RB JJ WRB PRP VBD TO VB PRP$ NN , CC RB IN PRP VBD TO VB , DT NN , WP VBD VBN VBG PRP CC VBD DT NN RB JJ IN NN , VBD IN PRP TO VB RB TO WRB PRP VBD VBG ."
+5,229,"She whispered something into his ear that caused the barber to shake his head, like he was telling her, 'No'.","PRP VBD NN IN PRP$ NN WDT VBD DT NN TO VB PRP$ NN , IN PRP VBD VBG PRP , '' UH '' ."
+5,230,"In response, the matron walked over to a little man sitting in an office chair that squeaked as it rolled around the floor and spoke to him.","IN NN , DT NN VBD RB TO DT JJ NN VBG IN DT NN WDT VBD IN PRP VBD IN DT NN CC VBD TO PRP ."
+5,231,It was the little man who then walked over and said something to the man who was cutting my hair.,PRP VBD DT JJ NN WP RB VBD RB CC VBD NN TO DT NN WP VBD VBG PRP$ NN .
+5,232,"The next thing I knew, the man who was cutting my hair told me that he was no longer allowed to give me an Elvis cut.","DT JJ NN PRP VBD , DT NN WP VBD VBG PRP$ NN VBD PRP IN PRP VBD RB RBR VBN TO VB PRP DT NNP NN ."
+5,233,'Why not?','' WRB RB . ''
+5,234,I cried desperately.,PRP VBD RB .
+5,235,"The kindly barber stopped by the matron did not answer, but from his expression, I could tell that he wished he could cut it as I had asked.","DT RB NN VBN IN DT NN VBD RB VB , CC IN PRP$ NN , PRP MD VB IN PRP VBD PRP MD VB PRP IN PRP VBD VBN ."
+5,236,"Within a few minutes, it wasn't an Elvis haircut, but a short buzz cut that the barber had given me.","IN DT JJ NNS , PRP VBD RB DT NNP NN , CC DT JJ NN VBD IN DT NN VBD VBN PRP ."
+5,237,"When he finished shaving off all my hair and made me smell real good with his powder, the barber handed me a nickel and told me to go outside to the snack machine and buy myself a candy bar.","WRB PRP VBD VBG RP PDT PRP$ NN CC VBD PRP VB RB JJ IN PRP$ NN , DT NN VBD PRP DT NN CC VBD PRP TO VB RB TO DT NN CC VB PRP DT NN ."
+5,238,I handed him the nickel back and told him that I was not hungry.,PRP VBD PRP DT NN RB CC VBD PRP IN PRP VBD RB JJ .
+5,239,"'I'm so sorry, baby,' he said, as I climbed out of his barber chair.","'' PRP VBP RB JJ , UH , '' PRP VBD , IN PRP VBD IN PRP$ NN ."
+5,240,"'I am not a baby,' I said, as I wiped the tears from my eyes.","'' PRP VBP RB DT NN , '' PRP VBD , IN PRP VBD DT NNS IN PRP$ NNS ."
+5,241,I then sat down on the floor and brushed away the hair that had accumulated on my shiny new Buster Brown shoes.,PRP RB VBD RB IN DT NN CC VBD RP DT NN WDT VBD VBN IN PRP$ JJ NNP NNS .
+5,242,"My head was no longer in the clouds, and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","PRP$ NN VBD RB RBR IN DT NNS , CC PRP VBD RP IN DT NN , VBD RP PRP$ JJ NNS , CC VBD RB IN DT NN ."
+5,243,The matron was smiling at me sort of funny like.,DT NN VBD VBG IN PRP NN IN JJ IN .
+5,244,"The barber upset by the matron said to her, 'You are just a damn bitch, lady.'","DT NN VBN IN DT NN VBD TO PRP , '' PRP VBP RB DT RB NN , NN . ''"
+5,245,"She yelled back at him at the top of her lungs, before walking toward the office, as fast as she could.","PRP VBD RB IN PRP IN DT NN IN PRP$ NNS , IN VBG IN DT NN , RB IN PRP MD ."
+5,246,"To show his anger, the man hit the wall with his hand and then walked outside where he stood against the brick wall, smoking a cigarette.","TO VB PRP$ NN , DT NN VBD DT NN IN PRP$ NN CC RB VBD IN WRB PRP VBD IN DT NN , VBG DT NN ."
+5,247,I understood right there my haircut was something that had been out of the power of the barber and then I slowly walked outside to join the man.,PRP VBD RB PRP$ NN VBD NN WDT VBD VBN IN DT NN IN DT NN CC RB PRP RB VBD RB TO VB DT NN .
+5,248,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","PRP VBD RB , VBD IN PRP , RB PRP VBD PRP IN DT NN IN PRP$ NN IN DT NN ."
+5,249,It was a fact of my life that I was not gonna have hair that was anything like Elvis's anytime soon.,PRP VBD DT NN IN PRP$ NN IN PRP VBD RB JJ VB NN WDT VBD NN IN NNP POS VBZ RB .
+5,250,"I then looked up at the barber with my wet red eyes and asked, 'Do you know if Elvis Presley has green bones?'","PRP RB VBD RP IN DT NN IN PRP$ JJ NNS CC VBD , '' VBP PRP VB IN NNP VBZ JJ NNS . ''"
+6,251,This is a story of how Mr. Sticky got in Abby's fish tank.,DT VBZ DT NN IN WRB NNP . NNP VBD IN NNP POS PRP$ NN .
+6,252,"'He's very small,' Abby's mom said as she peered at the tiny water snail.","'' PRP VBZ RB JJ , '' NNP POS PRP$ NN VBD IN PRP VBD IN DT JJ NN ."
+6,253,"Abby said that he would grow and then pulled her pajama bottoms up again before she got into bed, for they were always falling down.","NNP VBD IN PRP MD VB CC RB VBD PRP$ NN NNS RB IN PRP VBD IN NN , IN PRP VBD RB VBG RB ."
+6,254,"Usually, Abby's mom got up at the crack of dawn, but it was Abby who jumped out of bed first the next morning and switched on the light in her fish tank, which contained three fish.","RB , NNP POS PRP$ NN VBD RP IN DT NN IN NN , CC PRP VBD NNP WP VBD IN NN RB DT JJ NN CC VBD RP DT NN IN PRP$ NN , WDT VBD CD NNS ."
+6,255,"At first, she could see neither hide nor hair of the snail, but then she spotted him.","IN JJ , PRP MD VB DT NN CC NN IN DT NN , CC RB PRP VBD PRP ."
+6,256,"It had taken Abby a while to find Sticky because he was clinging to the glass near the bottom, right next to the gravel.","PRP VBD VBN NNP DT NN TO VB NNP IN PRP VBD VBG TO DT NN IN DT NN , RB JJ TO DT NN ."
+6,257,"At school that day, Abby, encouraged by her teacher, wrote excitedly about the small and mysterious Mr. Sticky, who you could mistake for a piece of gravel.","IN NN DT NN , NNP , VBN IN PRP$ NN , VBD RB IN DT JJ CC JJ NNP . NNP , WP PRP MD VB IN DT NN IN NN ."
+6,258,"He seemed an ideal pet for her, some of the girls in her class teased, because Abby was also very small.","PRP VBD DT JJ NN IN PRP , DT IN DT NNS IN PRP$ NN VBD , IN NNP VBD RB JJ ."
+6,259,"That evening, Abby turned on the light and found Mr. Sticky clinging to the pond weed and bobbing about in the air bubbles.","DT NN , NNP VBD IN DT NN CC VBD NNP . NNP VBG TO DT NN VBN CC VBG RP IN DT NN NNS ."
+6,260,'That looks fun!','' DT VBZ NN . ''
+6,261,Abby exclaimed.,NNP VBD .
+6,262,She tried to imagine what it must be like to have to hang on to things all day and decided the answer was that it was probably very tiring.,PRP VBD TO VB WP PRP MD VB JJ TO VB TO VB RP TO NNS DT NN CC VBD DT NN VBD IN PRP VBD RB JJ .
+6,263,Abby told her mom that she thought Sticky had grown a bit the next day at breakfast.,NNP VBD PRP$ NN IN PRP VBD NNP VBD VBN DT NN DT JJ NN IN NN .
+6,264,"'Just as well if he's going to be gobbled up like that,' her mom responded who was busy preparing breakfast.","'' RB IN PRP VBZ VBG TO VB VBN RP IN DT , '' PRP$ NN VBD WP VBD JJ VBG NN ."
+6,265,Abby whined that she didn't want him to get too big or he wouldn't be cute anymore.,NNP VBD IN PRP VBD RB VB PRP TO VB RB JJ CC PRP MD RB VB JJ RB .
+6,266,"'Small things, not big things, are cute, right?'","'' JJ NNS , RB JJ NNS , VBP JJ , JJ . ''"
+6,267,"she asked, half to herself.","PRP VBD , NN TO PRP ."
+6,268,"The next day in art class, Abby needed two pieces of paper that were very expensive, to draw an elephant, but the teacher didn't mind Abby using the expensive paper because she was pleased with the drawing and wanted it on the wall.","DT JJ NN IN NN , NNP VBD CD NNS IN NN WDT VBD RB JJ , TO VB DT NN , CC DT NN VBD RB VB NNP VBG DT JJ NN IN PRP VBD VBN IN DT NN CC VBD PRP IN DT NN ."
+6,269,"The teacher, who was always very encouraging, remarked that the drawing Abby had made was very creative and beamed at Abby, giving her the seal of approval.","DT NN , WP VBD RB JJ , VBD IN DT NN NNP VBD VBN VBD RB JJ CC VBN IN NNP , VBG PRP DT NN IN NN ."
+6,270,"Back at home, Mom, convinced by Abby to clean out the tank, was cleaning with a special vacuum, or 'hoover'.","RB IN NN , NN , VBN IN NNP TO VB RP DT NN , VBD VBG IN DT JJ NN , CC '' NN '' ."
+6,271,'Where's Mr.,'' WRB VBZ NNP .
+6,272,Sticky?',JJ . ''
+6,273,Abby asked first thing when she came home from school.,NNP VBD JJ NN WRB PRP VBD NN IN NN .
+6,274,"'On the side,' Mom replied.","'' IN DT NN , '' NN VBD ."
+6,275,"And then she added, 'Don't worry.","CC RB PRP VBD , '' VB RB VB ."
+6,276,I went extra slowly since it's better to be safe than sorry.',PRP VBD RB IN PRP VBZ JJR TO VB JJ IN JJ . ''
+6,277,"Abby looked on all sides of the tank, but there was no sign of the water snail that she had discovered a couple of days ago.","NNP VBD IN DT NNS IN DT NN , CC EX VBD DT NN IN DT NN IN PRP VBD VBN DT NN IN NNS RB ."
+6,278,She was very sad.,PRP VBD RB JJ .
+6,279,Her mom said to wait a few hours until the water clears to take another careful look.,PRP$ NN VBD TO VB DT JJ NNS IN DT NN VBZ TO VB DT JJ NN .
+6,280,"That evening, Abby went up to her bedroom to check the tank again.","DT NN , NNP VBD IN TO PRP$ NN TO VB DT NN RB ."
+6,281,"The water had settled and looked clear, but Abby could not see Mr. Sticky.","DT NN VBD VBN CC VBN JJ , CC NNP MD RB VB NNP . NNP ."
+6,282,"Abby kneeled down to have another look in the tank that her mom had cleared so thoroughly, but Mr. Sticky was still nowhere to be found.","NNP VBD RB TO VB DT NN IN DT NN IN PRP$ NN VBD VBN RB , CC NNP . NNP VBD RB TO VB VBN ."
+6,283,Abby was a bundle of nerves as she descended the stairs.,NNP VBD DT NN IN NNS IN PRP VBD DT NNS .
+6,284,"In the study, surrounded by books and papers, her mom was working and she looked impatient when she saw Abby in the doorway and even more worried when she heard the bad news.","IN DT NN , VBN IN NNS CC NNS , PRP$ NN VBD VBG CC PRP VBD NN WRB PRP VBD NNP IN DT NN CC RB RBR JJ WRB PRP VBD DT JJ NN ."
+6,285,"'He'll turn up,' Mom said, and that was that.","'' PRP MD VB RP , '' NN VBD , CC DT VBD DT ."
+6,286,"Then, to add fuel to the flames, she raised her tone of voice and said dismissively, 'For the time being, go to bed, Abby.","RB , TO VB NN TO DT NNS , PRP VBD PRP$ NN IN NN CC VBD RB , '' IN DT NN VBG , VB TO NN , NNP ."
+6,287,I've got masses of work to catch up on.',PRP VBP VBN NNS IN NN TO VB RP IN . ''
+6,288,Abby had a quick temper and she was angry as hell.,NNP VBD DT JJ NN CC PRP VBD JJ IN NN .
+6,289,"'You've hoovered him up, haven't you?'","'' PRP VBP VBN PRP RP , VBP RB PRP . ''"
+6,290,she said accusingly.,PRP VBD RB .
+6,291,"Abby's mom denied Abby's version of the story was true and said that she was careful, but because Mr. Sticky was so small he was hard to see.","NNP POS PRP$ NN VBD NNP POS PRP$ NN IN DT NN VBD JJ CC VBD IN PRP VBD JJ , CC IN NNP . NNP VBD RB JJ PRP VBD JJ TO VB ."
+6,292,'What's wrong with being small?','' WP VBZ JJ IN VBG JJ . ''
+6,293,"'Nothing at all, but it makes things hard to find.'","'' NN IN DT , CC PRP VBZ NNS JJ TO VB . ''"
+6,294,"'Or notice,' Abby said, suddenly feeling like the small, overlooked Mr. Sticky herself and storming from the room.","'' CC VB , '' NNP VBD , RB VBG IN DT JJ , VBN NNP . NNP PRP CC VBG IN DT NN ."
+6,295,The door to the bedroom opened a few minutes later and Mom's face appeared.,DT NN TO DT NN VBD DT JJ NNS RB CC NN POS NN VBD .
+6,296,She was there to try to make up for having been insensitive earlier.,PRP VBD RB TO VB TO VB RP IN VBG VBN JJ RBR .
+6,297,She had put her work on the back burner and occupied herself with Sticky.,PRP VBD VBN PRP$ NN IN DT JJ NN CC VBD PRP IN NNP .
+6,298,"Abby, who was breathing fire all on account of the little snail, tried to ignore her, but it was hard when Mom walked over to the bed and sat next to her.","NNP , WP VBD VBG NN DT IN NN IN DT JJ NN , VBD TO VB PRP , CC PRP VBD JJ WRB NN VBD RB TO DT NN CC VBD JJ TO PRP ."
+6,299,"Mom, who Abby still strained to remain upset with, had gone out to find her glasses in order to search for Sticky more effectively.","NN , WP NNP RB VBD TO VB JJ IN , VBD VBN RB TO VB PRP$ NNS IN NN TO VB IN NNP RBR RB ."
+6,300,"'This is my new and extra powerful pair I have for important occasions like snail hunting,' she said.","'' DT VBZ PRP$ JJ CC RB JJ NN PRP VBP IN JJ NNS IN NN , '' PRP VBD ."
+6,301,"She smiled at Abby, trying to butter her up, but Abby didn't smile back.","PRP VBD IN NNP , VBG TO VB PRP RP , CC NNP VBD RB VB RB ."
+6,302,"Abby believed her mom's idea would not succeed, but then she had an idea of her own.","NNP VBD PRP$ NN POS PRP$ NN MD RB VB , CC RB PRP VBD DT NN IN PRP$ JJ ."
+6,303,"'I've got a magnifying glass,' Abby suddenly remembered and rushed off to find it.","'' PRP VBP VBN DT JJ NN , '' NNP RB VBD CC VBD RP TO VB PRP ."
+6,304,"On the floor beside each other they sat, shuffling around the tank, looking all over the place and peering into the corners among the big pebbles and the pond weed.","IN DT NN IN DT JJ PRP VBD , VBG IN DT NN , VBG DT IN DT NN CC VBG IN DT NNS IN DT JJ NNS CC DT NN VBN ."
+6,305,"Abby tried to imagine, if she were Sticky, a little water snail, where would she hide out?","NNP VBD TO VB , IN PRP VBD NNP , DT JJ NN , WRB MD PRP VB RP ."
+6,306,"At one point she thought she saw him, but it wasn't the water snail.","IN CD NN PRP VBD PRP VBD PRP , CC PRP VBD RB DT NN ."
+6,307,It was a large speck of dust that was deceptively bobbing around in the water like a live animal.,PRP VBD DT JJ NN IN NN WDT VBD RB VBG RB IN DT NN IN DT JJ NN .
+6,308,"They were ready to call it quits, when suddenly Mom cried, 'Ah ha!'","PRP VBD JJ TO VB PRP VBZ , WRB RB NN VBD , '' UH . ''"
+6,309,"Tucked in a curve of the archway, perfectly hidden against a pitch dark stone, sat Mr. Sticky, safe and sound.","VBN IN DT NN IN DT NN , RB VBN IN DT NN JJ NN , VBD NNP . NNP , JJ CC JJ ."
+6,310,"'You, I can always count on,' Abby said to her mom, with relief.","'' PRP , PRP MD RB VB IN , '' NNP VBD TO PRP$ NN , IN NN ."
+6,311,Then she noticed another water snail was right next to Sticky and asked where this new addition to the family could have come from.,RB PRP VBD DT NN VBD RB JJ TO NNP CC VBD WRB DT JJ NN TO DT NN MD VB VBN IN .
+6,312,"'I'm beginning to suspect the pond weed is guilty, don't you think?'","'' PRP VBP VBG TO VB DT NN VBZ JJ , VBP RB PRP VB . ''"
+6,313,replied Mom.,VBD NN .
+6,314,"They both laughed and climbed into Abby's bed together and, though it was cozy, it was a bit of a squeeze.","PRP DT VBD CC VBD IN NNP POS PRP$ NN RB CC , IN PRP VBD JJ , PRP VBD DT NN IN DT NN ."
+6,315,"'Budge up,' Mom said, giving Abby a push with her bottom.","'' VB RP , '' NN VBD , VBG NNP DT NN IN PRP$ NN ."
+6,316,'I can't because I'm already on the edge.','' PRP MD VB RB IN PRP VBP RB IN DT NN . ''
+6,317,"'Good heavens, you've grown then.","'' JJ NNS , PRP VBP VBN RB ."
+6,318,When did that happen?,WRB VBD DT VB .
+6,319,You could've put an elephant in here last time we did this.,PRP MD VB VBN DT NN IN RB JJ NN PRP VBD DT .
+6,320,"Before I know it, you'll be all grown up.'","IN PRP VBP PRP , PRP MD VB RB VBN RP . ''"
+6,321,On her mom's chest Abby then put her head and smiled.,IN PRP$ NN POS NN NNP RB VBD PRP$ NN CC VBD .
+7,322,The text message said that Lucy Josephs was a failure.,DT NN VBD IN NNP VBD DT NN .
+7,323,"It said she was ugly, had no style and the world hated her.","PRP VBD PRP VBD JJ , VBD DT NN CC DT NN VBD PRP ."
+7,324,At least that was what it said to Lucy.,IN JJS DT VBD WP PRP VBD TO NNP .
+7,325,It said that and a whole lot more that she was struggling to understand.,PRP VBD DT CC DT JJ NN JJR IN PRP VBD VBG TO VB .
+7,326,"The actual text of the note said that Lucy better not show up at the party tonight, because it was going to be bad enough already!","DT JJ NN IN DT NN VBD IN NNP RBR RB VB RP IN DT NN RB , IN PRP VBD VBG TO VB JJ RB ."
+7,327,"Lucy, who had started receiving these messages a few weeks ago, tapped the mobile screen to make the message disappear from view.","NNP , WP VBD VBN VBG DT NNS DT JJ NNS RB , VBD DT JJ NN TO VB DT NN VB IN NN ."
+7,328,She only wished it was as easy to tap her heart and erase the trace the message had left there.,PRP RB VBD PRP VBD RB JJ TO VB PRP$ NN CC VB DT NN DT NN VBD VBN RB .
+7,329,'Was that another one of those messages?','' VBD IN DT CD IN DT NNS . ''
+7,330,"her mom asked, who was driving the car.","PRP$ NN VBD , WP VBD VBG DT NN ."
+7,331,"Lucy confirmed her mother's suspicion was founded as she answered dejectedly, 'I'm sorry to say it was.'","NNP VBD PRP$ NN POS PRP$ NN VBD VBN IN PRP VBD RB , '' PRP VBP JJ TO VB PRP VBD . ''"
+7,332,'Haven't you reported it yet?','' VBP RB PRP VBN PRP RB . ''
+7,333,"asked Jill, Lucy's older sister who was sitting in the passenger seat.","VBD NNP , NNP POS JJR NN WP VBD VBG IN DT NN ."
+7,334,"'Yes,' Lucy replied, lying through her teeth.","'' UH , '' NNP VBD , VBG IN PRP$ NNS ."
+7,335,"That Lucy should not let the messages get to her and that the sender was only jealous were Lucy's mom's arguments, in an effort to comfort her daughter.","IN NNP MD RB VB DT NNS VB TO PRP CC IN DT NN VBD RB JJ VBD NNP POS PRP$ NN POS PRP$ NNS , IN DT NN TO VB PRP$ NN ."
+7,336,"Lucy's mom suddenly felt guilty, for she had been the one to buy the phone for Lucy just a couple of months ago.","NNP POS PRP$ NN RB VBD JJ , IN PRP VBD VBN DT NN TO VB DT NN IN NNP RB DT NN IN NNS RB ."
+7,337,"She then admitted her regret about the phone was still bugging her out loud as she sighed, 'I never should have given you that phone Lucy.'","PRP RB VBD PRP$ NN IN DT NN VBD RB VBG PRP RP RB IN PRP VBD , '' PRP RB MD VB VBN PRP DT NN NNP . ''"
+7,338,"'No, it's fine.","'' UH , PRP VBZ JJ ."
+7,339,"I love it,' said Lucy knowing that affording the phone had been no small thing for her mother.","PRP VBP PRP , '' VBD NNP VBG IN VBG DT NN VBD VBN DT JJ NN IN PRP$ NN ."
+7,340,It had been nothing but trouble though.,PRP VBD VBN NN CC NN RB .
+7,341,"Lucy did not know who it was that was sending her the messages, and she did not know how they had got her number, but whoever it was, he or she had slowly taken over Lucy's life.","NNP VBD RB VB WP PRP VBD DT VBD VBG PRP DT NNS , CC PRP VBD RB VB WRB PRP VBD VBN PRP$ NN , CC WP PRP VBD , PRP CC PRP VBD RB VBN RP NNP POS PRP$ NN ."
+7,342,"She was getting several texts a day now, all of which were abusive and hurtful.","PRP VBD VBG JJ NNS DT NN RB , DT IN WDT VBD JJ CC JJ ."
+7,343,Lucy wondered what the person who was messaging her might be thinking or trying to achieve with all of their hateful messages.,NNP VBD WP DT NN WP VBD VBG PRP MD VB VBG CC VBG TO VB IN DT IN PRP$ JJ NNS .
+7,344,"As the car pulled up outside the school, which looked like a large shadow in the darkness of a November evening, Lucy felt a shiver run down her spine.","IN DT NN VBD RP IN DT NN , WDT VBD IN DT JJ NN IN DT NN IN DT NNP NN , NNP VBD DT NN VB IN PRP$ NN ."
+7,345,"Hastened by Jill, who did not want to be late to her own concert, Lucy hesitantly stepped out of the car and walked toward the school.","VBN IN NNP , WP VBD RB VB TO VB JJ TO PRP$ JJ NN , NNP RB VBD IN DT NN CC VBD IN DT NN ."
+7,346,"It was Jill who in her final year of high school had become involved in helping organize this year's school talent show, and she took her position very seriously.","PRP VBD NNP WP IN PRP$ JJ NN IN JJ NN VBD VBN IN VBG VB DT NN POS PRP$ NN , CC PRP VBD PRP$ NN RB ."
+7,347,"Lucy hurried behind Jill, pulling on the worn, oversized coat that had originally belonged to Jill, in order to keep her dry as the raindrops fell all around them.","NNP VBD IN NNP , VBG IN DT JJ , JJ NN WDT VBD RB VBN TO NNP , IN NN TO VB PRP JJ IN DT NNS VBD DT IN PRP ."
+7,348,"As the sisters entered the hall where the show was to take place, Jill filled with excitement while Lucy regretted that she had promised her mother she would participate in the show.","IN DT NNS VBD DT NN WRB DT NN VBD TO VB NN , NNP VBD IN NN IN NNP VBD IN PRP VBD VBN PRP$ NN PRP MD VB IN DT NN ."
+7,349,"'To waste your talent would be a real shame, for you have such a beautiful voice,' her mother had argued two months back, when the concert was first announced.","'' TO VB PRP$ NN MD VB DT JJ NN , IN PRP VBP PDT DT JJ NN , '' PRP$ NN VBD VBN CD NNS RB , WRB DT NN VBD RB VBN ."
+7,350,"Lucy had been considering it, for she did love to sing.","NNP VBD VBN VBG PRP , IN PRP VBD NN TO VB ."
+7,351,"That very night, the first text message had come through.","DT JJ NN , DT JJ NN VBD VBN IN ."
+7,352,'How does it feel to be tall and lanky like a giraffe?','' WRB VBZ PRP VB TO VB JJ CC JJ IN DT NN . ''
+7,353,"it had asked, taking Lucy by surprise.","PRP VBD VBN , VBG NNP IN NN ."
+7,354,"One of the popular girls, Lucy had always known she wasn't, but before the messages began, Lucy had always been quite proud of being a little different.","CD IN DT JJ NNS , NNP VBD RB VBN PRP VBD RB , CC IN DT NNS VBD , NNP VBD RB VBN RB JJ IN VBG DT RB JJ ."
+7,355,"But text by text, Lucy's self-confidence had deflated and, in the end, it had taken some doing to get her to agree to perform in the show.","CC NN IN NN , NNP POS PRP$ NN : NN VBD VBN CC , IN DT NN , PRP VBD VBN DT VBG TO VB PRP TO VB TO VB IN DT NN ."
+7,356,"Now, however, Lucy had no choice but to make her way towards the stage where Jill was beckoning encouragingly to her.","RB , RB , NNP VBD DT NN CC TO VB PRP$ NN IN DT NN WRB NNP VBD VBG RB TO PRP ."
+7,357,She was the first performer.,PRP VBD DT JJ NN .
+7,358,"Lucy, announced by her sister to the audience, was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her.","NNP , VBN IN PRP$ NN TO DT NN , VBD DT NNS IN PRP VBD IN DT NN IN DT NN , WRB EX VBD NN CC DT NN CC PRP ."
+7,359,She heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,PRP VBD DT NN VB CC MD VB DT NN IN NN VB IN DT JJ NN IN DT JJ NN .
+7,360,"As the curtains began to part, she cast a worried look at Jill in the wings, who assured her with a positive thumbs up.","IN DT NNS VBD TO VB , PRP VBD DT JJ NN IN NNP IN DT NNS , WP VBD PRP IN DT JJ NNS RP ."
+7,361,"Lucy thought to herself that she could not go through with this and that she, unlike her older sister, was not confident enough to put herself before the judging audience.","NNP VBD TO PRP IN PRP MD RB VB RB IN DT CC IN PRP , IN PRP$ JJR NN , VBD RB JJ RB TO VB PRP IN DT NN ."
+7,362,The crowd looked up at her and Lucy was ready to run when the first notes of the music sounded out and a sudden calm settled over her.,DT NN VBD RB IN PRP CC NNP VBD JJ TO VB WRB DT JJ NNS IN DT NN VBD RB CC DT JJ NN VBD IN PRP .
+7,363,"She closed her eyes and shut everything out, including the audience, the nerves that threatened to take over, the text messages, and the way they made her feel.","PRP VBD PRP$ NNS CC VBD NN RP , VBG DT NN , DT NNS WDT VBD TO VB RP , DT NN NNS , CC DT NN PRP VBD PRP VB ."
+7,364,"It was just her and the music, and it was a love story that had been going on her whole life.","PRP VBD RB PRP CC DT NN , CC PRP VBD DT NN WDT VBD VBN VBG RP PRP$ JJ NN ."
+7,365,"She began to sing, and all the pain and confusion that the messages had been causing inside her just flowed out.","PRP VBD TO VB , CC PDT DT NN CC NN IN DT NNS VBD VBN VBG IN PRP RB VBD RB ."
+7,366,"The words were not important, for it was the feeling behind them that she latched onto.","DT NNS VBD RB JJ , IN PRP VBD DT NN IN PRP IN PRP VBD IN ."
+7,367,Lucy was in the heart of the song with the rest of the world slipping away.,NNP VBD IN DT NN IN DT NN IN DT NN IN DT NN VBG RB .
+7,368,"When the song finished and the last note died away, she opened her eyes.","WRB DT NN VBD CC DT JJ NN VBD RB , PRP VBD PRP$ NNS ."
+7,369,To see the whole audience on their feet and the hall filled with cheers and applause was not what Lucy had expected.,TO VB DT JJ NN IN PRP$ NNS CC DT NN VBN IN NNS CC NN VBD RB WP NNP VBD VBN .
+7,370,Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time.,NNP VBD PRP TO VB DT NN IN NN CC NN IN PRP VBD RB VBN IN DT RB JJ NN .
+7,371,"Then she saw her mother, who was cheering the loudest of all in the crowd, and Jill, who was beaming at her with pride from the wings.","RB PRP VBD PRP$ NN , WP VBD VBG DT JJS IN DT IN DT NN , CC NNP , WP VBD VBG IN PRP IN NN IN DT NNS ."
+7,372,She knew she owed them big time for reminding her what she was capable of and who she really was.,PRP VBD PRP VBD PRP JJ NN IN VBG PRP WP PRP VBD JJ IN CC WP PRP RB VBD .
+7,373,The next time her phone bleeped she would tap the message straight into oblivion where it belonged.,DT JJ NN PRP$ NN VBD PRP MD VB DT NN RB IN NN WRB PRP VBD .
+8,374,"The Roswell UFO Incident was the alleged recovery of extra-terrestrial debris, including alien corpses, from an object that crashed near Roswell, New Mexico, on or about July eighth, nineteen forty-seven.","DT NNP VBD DT VBN NN IN JJ NN , VBG JJ NNS , IN DT NN WDT VBD IN NNP , NNP , IN CC IN NNP JJ , CD : CD ."
+8,375,"Since the late nineteen seventies, the incident has been the subject of intense controversy and the subject of conspiracy theories as to the true nature of the object that crashed.","IN DT JJ CD NNS , DT NN VBZ VBN DT NN IN JJ NN CC DT NN IN NN NNS IN TO DT JJ NN IN DT NN WDT VBD ."
+8,376,The United States military maintains the debris recovered was from an experimental high-altitude surveillance balloon that belonged to a classified program named 'Mogul'.,DT NNP NNPS NN VBZ DT NN VBN VBD IN DT JJ NN WDT VBD TO DT VBN NN VBN '' NNP '' .
+8,377,"However, many UFO proponents maintain that, in fact, a crashed alien craft and bodies were recovered, and that the military then engaged in a cover-up.","RB , JJ NNP NNS VBP IN , IN NN , DT VBN JJ NN CC NNS VBD VBN , CC IN DT NN RB VBD IN DT NN ."
+8,378,"The incident has turned into a widely known pop culture phenomenon, making the name Roswell synonymous with UFOs.","DT NN VBZ VBN IN DT RB VBN NN , VBG DT NN NNP JJ IN NNS ."
+8,379,It ranks as one of the most publicized and controversial alleged UFO incidents.,PRP VBZ IN CD IN DT RBS VBN CC JJ VBN NNP NNS .
+8,380,"On July ninth, nineteen forty-seven, a press release that Roswell Army Air Field issued stated that personnel from the field's Bomb Group had recovered a crashed 'flying disc' from a ranch near Roswell, sparking intense media interest.","IN NNP JJ , CD : CD , DT NN IN NNP VBD IN NNS IN DT NN POS DT NNP VBD VBN DT VBN '' VBG NN '' IN DT NN IN NNP , VBG JJ NNS NN ."
+8,381,"Later the same day, the Commanding General of the Eighth Air Force stated that, in fact, a weather balloon had been recovered by the Roswell Army Air Field personnel, rather than a 'flying saucer'.","RB DT JJ NN , DT NNP IN DT NNP VBD IN , IN NN , DT NN VBD VBN IN DT NNP NNS , RB IN DT '' VBG NN '' ."
+8,382,"A subsequent press conference was called, featuring debris from the crashed object that confirmed the weather balloon description.","DT JJ NN VBD VBN , VBG NN IN DT VBN NN WDT VBD DT NN ."
+8,383,"The case was quickly forgotten and almost completely ignored, even by UFO researchers, for more than thirty years.","DT NN VBD RB VBN CC RB VBN , RB IN NNP NNS , IN JJR IN CD NNS ."
+8,384,"Then, in nineteen seventy-eight, nuclear physicist and author Stanton Friedman interviewed Jesse Marcel, the only person known to have accompanied the Roswell debris from where it was recovered to Fort Worth.","RB , IN CD , JJ NN CC NN NNP VBD NNP , DT JJ NN VBN TO VB VBN DT NNP NN IN WRB PRP VBD VBN TO NNP ."
+8,385,"Over the next few years, the accounts he and others gave elevated Roswell from a forgotten incident to perhaps the most famous UFO case of all time.","IN DT JJ NNS , DT NNS PRP CC NNS VBD JJ NNP IN DT JJ NN TO RB DT RBS JJ NNP NN IN DT NN ."
+8,386,"By the early nineteen nineties, UFO researchers had interviewed several hundred people who had, or who claimed to have had, a connection with the events at Roswell in nineteen forty-seven.","IN DT JJ CD NNS , NNP NNS VBD VBN JJ CD NNS WP VBD , CC WP VBD TO VB VBN , DT NN IN DT NNS IN NNP IN CD ."
+8,387,"Additionally, hundreds of documents were obtained by Freedom of Information Act requests, as were some that insiders apparently leaked.","RB , NNS IN NNS VBD VBN IN NNP IN NNP NNS , IN VBD DT IN NNS RB VBD ."
+8,388,"Their conclusions were that at least one alien craft had crashed in the Roswell vicinity, that aliens, some possibly still alive, were recovered, and that a massive cover-up of any knowledge of the incident was put in place.","PRP$ NNS VBD IN JJS CD NN VBD VBN IN DT NNP NN , IN NNS , DT RB JJ , VBD VBN , CC IN DT JJ NN : NN IN DT NN IN DT NN VBD VBN IN NN ."
+8,389,"Numerous books, articles, television specials and even a made-for-TV movie brought the nineteen forty-seven incident fame and notoriety, so that by the mid nineteen nineties, strong majorities in polls, such as a nineteen ninety-seven CNN Time poll, believed that aliens had visited earth and specifically that aliens had landed at Roswell and the government was covering up the fact.","JJ NNS , NNS , NN NNS CC RB DT JJ : JJ : NN VBD DT CD NN CC NN , IN DT JJ CD NNS , JJ NNS IN NNS , JJ IN DT CD NNP NN , VBD IN NNS VBD VBN NN CC RB IN NNS VBD VBN IN NNP CC DT NN VBD VBG RP DT NN ."
+8,390,"During the nineteen eighties and nineteen nineties, a new narrative emerged which was at strong odds with what was reported in nineteen forty-seven.","IN DT CD NNS CC CD NNS , DT JJ NN VBD WDT VBD IN JJ NNS IN WP VBD VBN IN CD NNS CD ."
+8,391,"This narrative evolved over the years from the time the first book on Roswell was published in nineteen eighty, as many new witnesses and accounts emerged, drawn out in part by the publicity on the incident.","DT NN VBD IN DT NNS IN DT NN DT JJ NN IN NNP VBD VBN IN CD , IN JJ NNS CC NNS VBD , VBN RP IN NN IN DT NN IN DT NN ."
+8,392,"Of the hundreds of witnesses that the various researchers interviewed, a seemingly impressive figure, a comparable few were true 'witnesses' who claimed to have actually seen debris or aliens.","IN DT NNS IN NNS IN DT JJ NNS VBD , DT RB JJ NN , DT JJ VBD JJ '' NNS '' WP VBD TO VB RB VBN NN CC NNS ."
+8,393,"Most of these so-called witnesses were repeating the claims of others, and their testimony would be inadmissible hearsay in an American court.","JJS IN DT JJ : JJ NNS VBD VBG DT NNS IN NNS , CC PRP$ NN MD VB JJ NN IN DT JJ NN ."
+8,394,"As for the several accounts from those who claimed to have seen aliens, critics identified a variety of problems with them.","IN DT JJ NNS IN DT WP VBD TO VB VBN NNS , NNS VBD DT NN IN NNS IN PRP ."
+8,395,"These problems ranged from the reliability of second-hand accounts, to serious credibility problems with witnesses making demonstrably false or internally-inconsistent claims, to dubious death-bed 'confessions' or accounts from elderly or easily confused witnesses.","DT NNS VBD IN DT NN IN JJ NNS , TO JJ NN NNS IN NNS VBG RB JJ CC JJ : JJ NNS , TO JJ NN : NN '' NNS '' CC NNS IN JJ CC RB VBN NNS ."
+8,396,"A basic problem with all the witness accounts, according to the critics, is that they all came a minimum of thirty-one years after the events in question, and in many cases were recounted more than forty years after the fact.","DT JJ NN IN PDT DT NN NNS , VBG TO DT NNS , VBZ IN PRP DT VBD DT NN IN CD : CD NNS IN DT NNS IN NN , CC IN JJ NNS VBD VBN JJR IN CD NNS IN DT NN ."
+8,397,"Not only are memories this old of dubious reliability, they were also subject to contamination from other accounts the witnesses may have been exposed to.","RB VBP NNS DT JJ IN JJ NN , PRP VBD RB JJ TO NN IN JJ NNS DT NNS MD VB VBN TO ."
+8,398,"Though there had always been skeptics who had many objections to the plausibility of these accounts, it was not until the mid nineteen nineties that a strong counter-argument to the presence of aliens was widely publicized.","IN EX VBD RB VBN NNS WP VBD JJ NNS TO DT NN IN DT NNS , PRP VBD RB IN DT JJ CD NNS IN DT JJ NN : NN TO DT NN IN NNS VBD RB VBN ."
+8,399,The General Accounting Office launched an inquiry and directed the Office of the Secretary of the Air Force to conduct an internal investigation.,DT NNP VBD DT NN CC VBD DT NNP IN DT NNP IN DT NNP TO VB DT JJ NN .
+8,400,The result was summarized in two reports.,DT NN VBD VBN IN CD NNS .
+8,401,"The first, released in nineteen ninety-five, concluded that the reported recovered material in nineteen forty-seven was likely debris from a secret government program called Project Mogul, which involved high altitude balloons meant to detect sound waves generated by Soviet atomic bomb tests and ballistic missiles.","DT JJ , VBN IN CD , VBD IN DT VBN NN IN CD VBD JJ NN IN DT JJ NN VBN NNP , WDT VBD JJ NN NNS VBD TO VB JJ NNS VBN IN JJ NN NNS CC JJ NNS ."
+8,402,"The second report, released two years later, in nineteen ninety-seven, concluded that reports of recovered alien bodies were likely a combination of innocently transformed memories of military accidents involving injured or killed personnel, innocently transformed memories of the recovery of anthropomorphic dummies in military programs US conducted in the nineteen fifties, and hoaxes that various witnesses and UFO proponents perpetrated.","DT JJ NN , VBN CD NNS RB , IN CD , VBD IN NNS IN VBN JJ NNS VBD RB DT NN IN RB VBN NNS IN JJ NNS VBG VBN CC VBN NNS , RB VBN NNS IN DT NN IN JJ NNS IN JJ NNS NNP VBN IN DT CD NNS , CC NNS IN JJ NNS CC NNP NNS VBD ."
+8,403,The psychological effects of time compression and confusion about when events occurred explained the discrepancy with the years in question.,DT JJ NNS IN NN CC NN IN WRB NNS VBD DT NN IN DT NNS IN NN .
+8,404,"In January nineteen ninety-seven, Karl Pflock, one of the more prominent pro-UFO researchers, said, 'Based on my research and that of others, I'm as certain as it's possible to be without absolute proof, that no flying saucer or saucers crashed in the general vicinity of Roswell or on the Plains of San Agustin in nineteen forty-seven.'","IN NNP CD , NNP , CD IN DT RBR JJ : NNP NNS , VBD , '' VBN IN PRP$ NN CC IN NNS , PRP VBP RB JJ IN PRP VBZ JJ TO VB IN JJ NN , IN DT VBG NN CC NNS VBD IN DT JJ NN IN NNP CC IN DT NNPS IN NNP IN CD . ''"
+8,405,"He then added, 'The debris found was the remains of something very earthly, all but certainly something from the Top Secret Project Mogul.'","PRP RB VBD , '' DT NN VBN VBD DT NNS IN NN RB JJ , DT CC RB NN IN DT NNP . ''"
+8,406,"Although most now agree with this conclusion, each year, during July Fourth weekend, the City of Roswell hosts the Roswell UFO Festival celebrating all things UFO, featuring prominent UFOlogists and discussions.","IN JJS RB VBP IN DT NN , DT NN , IN NNP JJ NN , DT NNP IN NNP VBZ DT NNP VBG DT NNS NNP , VBG JJ NNS CC NNS ."
+9,407,Tulip mania was a period in the Dutch Golden Age during which contract prices for bulbs of the recently introduced tulip reached extraordinarily high levels and then suddenly collapsed.,NN VBD DT NN IN DT NNP IN WDT NN NNS IN NNS IN DT RB VBN NN VBD RB JJ NNS CC RB VBD .
+9,408,"At the peak of tulip mania in February sixteen thirty-seven, tulip contracts sold for more than ten times the annual income of a skilled craftsman.","IN DT NN IN NN IN NNP CD : CD , NN NNS VBD IN JJR IN CD NNS DT JJ NN IN DT JJ NN ."
+9,409,It is generally considered the first recorded economic bubble.,PRP VBZ RB VBN DT JJ VBN JJ NN .
+9,410,"The tulip, introduced to Europe in the mid sixteenth century from the Ottoman Empire, became very popular in the United Provinces, which we now know as the Netherlands.","DT NN , VBN TO NNP IN DT JJ NN IN DT NNP , VBD RB JJ IN DT NNP NNPS , WDT PRP RB VBP IN DT NNPS ."
+9,411,"Tulip cultivation in the United Provinces is generally thought to have started in earnest around fifteen ninety-three, after the Flemish botanist Charles de l'Ecluse had taken up a post at the University of Leiden and established a botanical garden, which is famous as one of the oldest in the world.","NN IN DT NNP NNPS VBZ RB VBN TO VB VBN IN NN IN CD , IN DT JJ NN NNP IN NNP VBD VBN RP DT NN IN DT NNP IN NNP CC VBN DT JJ NN , WDT VBZ JJ IN CD IN DT JJS IN DT NN ."
+9,412,"There, he planted his collection of tulip bulbs that the Emperor's ambassador sent to him from Turkey, which were able to tolerate the harsher conditions of the northern climate.","RB , PRP VBD PRP$ NN IN NN NNS IN DT NNP POS PRP$ NN VBD TO PRP IN NNP , WDT VBD JJ TO VB DT JJR NNS IN DT JJ NN ."
+9,413,It was shortly thereafter that the tulips began to grow in popularity.,PRP VBD RB IN DT NNS VBD TO VB IN NN .
+9,414,"The flower rapidly became a coveted luxury item and a status symbol, and a profusion of varieties followed.","DT NN RB VBD DT JJ NN CC DT NN , CC DT NN IN NNS VBD ."
+9,415,"They were classified in groups: one-colored tulips of red, yellow, or white were known as Couleren, but it was the multicolored Rosen (red or pink on white background), Violetten (purple or lilac on white background), and, to a lesser extent, the Bizarden (red, brown or purple on yellow background) that were the most popular.","PRP VBD VBN IN NNS : JJ : JJ NNS IN JJ , JJ , CC JJ VBD VBN IN NNP , CC PRP VBD DT JJ NNP LRB- JJ CC JJ IN JJ NN RRB- , NNP LRB- NN CC NN IN JJ NN RRB- , CC , TO DT JJR NN , DT NNP LRB- JJ , JJ CC JJ IN JJ NN RRB- WDT VBD DT RBS JJ ."
+9,416,"These spectacular and highly sought-after tulip bulbs would grow flowers with vivid colors, lines, and flames on the petals, as a result, it is now understood, of being infected with tulip-specific virus known as the 'Tulip breaking virus'.","DT JJ CC RB JJ : JJ NN NNS MD VB NNS IN JJ NNS , NNS , CC NNS IN DT NNS , IN DT NN , PRP VBZ RB VBN , IN VBG VBN IN JJ : JJ NN VBN IN DT '' NN '' ."
+9,417,The Dutch Golden Age growers named their new varieties with exalted titles.,DT NNP NNS VBD PRP$ JJ NNS IN JJ NNS .
+9,418,"Many early forms were prefixed with 'admiral', often combined with the growers' names.","JJ NNS VBD VBN IN '' NN '' , RB VBN IN DT NNS POS NNS ."
+9,419,'General' was another prefix that found its way into the names of around thirty varieties.,'' NNP '' VBD DT NN WDT VBD PRP$ NN IN DT NNS IN CD NNS .
+9,420,"Later came varieties with even more superb names, such as even 'Admiral of Admirals' and 'General of Generals'.","RB VBD NNS IN RB JJR JJ NNS , JJ IN RB '' NNP IN NNS '' CC '' NNP IN NNS '' ."
+9,421,"Most of these varieties have now died out, though similar 'broken' tulips continue in the trade.","JJS IN DT NNS VBP RB VBN RP , IN JJ '' JJ '' NNS VBP IN DT NN ."
+9,422,"Tulips grow from bulbs, and can be propagated through both seeds and buds.","NNS VBP IN NNS , CC MD VB VBN IN DT NNS CC NNS ."
+9,423,Seeds from a tulip will form a flowering bulb after seven-twelve years.,NNS IN DT NN MD VB DT NN IN CD : CD NNS .
+9,424,"When a bulb grows into the flower, the original bulb will disappear, but a clone bulb forms in its place, as do several buds.","WRB DT NN VBZ IN DT NN , DT JJ NN MD VB , CC DT NN VBZ IN PRP$ NN , IN VBP JJ NNS ."
+9,425,"Properly cultivated, these buds will become bulbs of their own.","RB VBN , DT NNS MD VB NNS IN PRP$ JJ ."
+9,426,"The 'tulip breaking' virus, which many botanists have studied, spreads only through buds, not seeds, and so cultivating the most appealing varieties takes years.","DT '' NN '' NN , WDT JJ NNS VBP VBN , VBZ RB IN NNS , RB NNS , CC RB VBG DT RBS JJ NNS VBZ NNS ."
+9,427,Propagation is greatly slowed down by the virus.,NN VBZ RB VBN RP IN DT NN .
+9,428,"Tulips bloom in April and May for about a week, and the secondary buds appear shortly thereafter.","NNS VBP IN NNP CC NNP IN RB DT NN , CC DT JJ NNS VBP RB ."
+9,429,"Bulbs can be uprooted and moved about from June to September, and thus actual purchases occurred during these months.","NNS MD VB VBN CC VBN RB IN NNP TO NNP , CC RB JJ NNS VBD IN DT NNS ."
+9,430,"As the flowers grew in popularity, professional growers paid higher and higher prices for bulbs with the virus.","IN DT NNS VBD IN NN , JJ NNS VBD JJR CC JJR NNS IN NNS IN DT NN ."
+9,431,"By sixteen thirty-four, in part as a result of demand from the French, speculators began to enter the market.","IN CD : CD , IN NN IN DT NN IN NN IN DT NNPS , NNS VBD TO VB DT NN ."
+9,432,"In sixteen thirty-six, the Dutch created a type of formal futures markets, which merchants used to sell and buy contracts to buy bulbs at the end of the season.","IN CD : CD , DT NNPS VBD DT NN IN JJ NNS , WDT NNS VBD TO VB CC VB NNS TO VB NNS IN DT NN IN DT NN ."
+9,433,Traders met at taverns and buyers were required to pay a fee per trade.,NNS VBD IN NNS CC NNS VBD VBN TO VB DT NN IN NN .
+9,434,"People were purchasing bulbs at higher and higher prices, intending to re-sell them for a profit.","NNS VBD VBG NNS IN JJR CC JJR NNS , VBG TO VB : VB PRP IN DT NN ."
+9,435,"However, such a scheme could not last unless someone was ultimately willing to pay such high prices and take possession of the bulbs.","RB , PDT DT NN MD RB VB IN NN VBD RB JJ TO VB JJ NNS CC VB NN IN DT NNS ."
+9,436,"In February sixteen thirty-seven, tulip traders could no longer find new buyers willing to pay increasingly inflated prices for their bulbs.","IN NNP CD : CD , NN NNS MD RB VB JJ NNS JJ TO VB RB JJ NNS IN PRP$ NNS ."
+9,437,"As this realization set in, the demand for tulips collapsed, and prices plummeted.","IN DT NN VBD RP , DT NN IN NNS VBD , CC NNS VBD ."
+9,438,The speculative bubble burst.,DT JJ NN .
+9,439,"Some were left holding contracts to purchase tulips at prices now ten times greater than those on the open market, while others found themselves in possession of bulbs now worth a fraction of the price they had paid.","DT VBD VBN VBG NNS TO VB NNS IN NNS RB CD NNS JJR IN DT IN DT JJ NN , IN NNS VBD PRP IN NN IN NNS RB JJ DT NN IN DT NN PRP VBD VBN ."
+9,440,"The event was popularized in eighteen forty-one by the book 'Extraordinary Popular Delusions and the Madness of Crowds', that a British journalist Charles Mackay wrote.","DT NN VBD VBN IN CD : CD IN DT NN '' JJ NNS CC DT NN IN NNS '' , IN DT JJ NN NNP VBD ."
+9,441,"That crowds of people often behave irrationally was the main thesis of the book, and tulip mania was one of the primary examples.","IN NNS IN NNS RB VBP RB VBD DT JJ NN IN DT NN , CC NN VBD CD IN DT JJ NNS ."
+9,442,"According to Mackay, at one point twelve acres of land were offered for a Semper Augustus bulb.","VBG TO NNP , IN CD NN CD NNS IN NN VBD VBN IN DT NNP NN ."
+9,443,"He claims that many such investors ruined by the fall in prices were desperate, and Dutch commerce suffered a severe shock.","PRP VBZ IN JJ NNS VBN IN DT NN IN NNS VBD JJ , CC JJ NN VBD DT JJ NN ."
+9,444,"In Mackay's account, the panicked tulip speculators sought help from the government of the Netherlands, which responded by declaring that anyone who had bought contracts to purchase bulbs in the future could void their contract by payment of a ten percent fee.","IN NNP POS PRP$ NN , DT JJ NN NNS VBD NN IN DT NN IN DT NNP , WDT VBD IN VBG IN NN WP VBD VBN NNS TO VB NNS IN DT NN MD VB PRP$ NN IN NN IN DT CD NN ."
+9,445,Attempts that were made to resolve the situation to the satisfaction of all parties were unsuccessful.,NNS WDT VBD VBN TO VB DT NN TO DT NN IN DT NNS VBD JJ .
+9,446,"The mania finally ended, Mackay says, with individuals stuck with the bulbs they held at the end of the crash.","DT NN RB VBD , NNP VBZ , IN NNS VBN IN DT NNS PRP VBD IN DT NN IN DT NN ."
+9,447,"No court would enforce payment of a contract, since judges regarded the debts as contracted through gambling, and thus not enforceable by law.","DT NN MD VB NN IN DT NN , IN NNS VBD DT NNS IN VBN IN NN , CC RB JJ IN NN ."
+9,448,"Although Mackay's book is a classic that many publishing houses continue reprinting today, his account is contested.","IN NNP POS PRP$ NN VBZ DT NN IN JJ NN NNS VBP VBG NN , PRP$ NN VBZ VBN ."
+9,449,"Many modern scholars believe the mania was not as extraordinary as Mackay described, with some arguing that the price changes may not have constituted a bubble.","JJ NNS VBP DT NN VBD RB JJ IN NNP VBD , IN DT VBG IN DT NN NNS MD RB VB VBN DT NN ."
+9,450,Research on the tulip mania is difficult because of the limited data from the sixteen thirties.,NN IN DT NN VBZ JJ IN DT JJ NNS IN DT CD NNS .
+9,451,"However, some modern economists have proposed rational explanations, rather than a speculative mania, for the rise and fall in prices.","RB , DT JJ NNS VBP VBN JJ NNS , RB IN DT JJ NN , IN DT NN CC NN IN NNS ."
+9,452,"For example, other flowers, such as the hyacinth, also had high prices on the flower's introduction, which then fell dramatically.","IN NN , JJ NNS , JJ IN DT NN , RB VBD JJ NNS IN DT NN POS NN , WDT RB VBD RB ."
+9,453,"The high prices may also have been driven by expectations of a parliamentary decree that contracts could be voided for a small cost, thus lowering the risk to buyers.","DT JJ NNS MD RB VB VBN IN NNS IN DT JJ NN IN NNS MD VB VBN IN DT JJ NN , RB VBG DT NN TO NNS ."
+9,454,"Despite these disagreements about whether the phenomenon technically constituted an economic bubble, the term 'tulip mania' is still often used metaphorically to refer to any large economic bubble, when asset prices deviate from intrinsic values.","IN DT NNS IN DT NN RB VBD DT JJ NN , DT NN '' NN '' VBZ RB VBN RB TO VB TO DT JJ NN , WRB NN NNS VBP IN JJ NNS ."
+10,455,"Tourette's syndrome, a neurological disorder characterized by repetitive, involuntary movements, was named for Dr. Georges Gilles de la Tourette, the pioneering French neurologist who first described the condition in an eighty-six-year-old French noblewoman.","NNP POS PRP$ NN , DT JJ NN VBN IN JJ , JJ NNS , VBD VBN IN NNP . NNP , DT JJ NN WP RB VBD DT NN IN DT JJ : JJ : JJ NN ."
+10,456,"It is almost always in childhood that the early symptoms of Tourette's are first noticed, with the average onset between the ages of seven and ten years.","PRP VBZ RB IN NN IN DT JJ NNS IN NNP POS VBP RB VBN , IN DT JJ NN IN DT NNS IN CD CC CD NNS ."
+10,457,"It is estimated that two hundred thousand Americans have the most severe form of Tourette's, and as many as one in a hundred people exhibit milder and less complex symptoms that include chronic motor and vocal tics or transient tics of childhood.","PRP VBZ VBN IN CD NNPS VBP DT RBS JJ NN IN NNP POS , CC RB JJ IN CD IN DT CD NNS VBP JJR CC RBR JJ NNS WDT VBP JJ NN CC JJ NNS CC JJ NNS IN NN ."
+10,458,"For the majority of people diagnosed with the disorder, Tourette's is not a chronic condition with symptoms lasting a lifetime.","IN DT NN IN NNS VBN IN DT NN , NNP POS VBZ RB DT JJ NN IN NNS VBG DT NN ."
+10,459,"Rather it is a condition whose severity peaks in the early teens, with improvement occurring in the late teens and continuing into adulthood.","RB PRP VBZ DT NN WP$ NN VBZ IN DT JJ NNS , IN NN VBG IN DT JJ NNS CC VBG IN NN ."
+10,460,"However, approximately ten percent of those affected have a progressive or disabling course that lasts into adulthood.","RB , RB CD NN IN DT VBN VBP DT JJ CC JJ NN WDT VBZ IN NN ."
+10,461,It is not uncommon for symptoms to be present for an extended period of time before a formal diagnosis of Tourette's is obtained.,PRP VBZ RB JJ IN NNS TO VB JJ IN DT JJ NN IN NN IN DT JJ NN IN NNP POS VBZ VBN .
+10,462,"The reasons for this are many and may include the fact that for families and physicians unfamiliar with Tourette's, mild and even moderate tic symptoms may be considered inconsequential, part of a developmental phase, or the result of another condition.","DT NNS IN DT VBP JJ CC MD VB DT NN IN NNS CC NNS JJ IN NNP POS , JJ CC RB JJ NN NNS MD VB VBN JJ , NN IN DT JJ NN , CC DT NN IN DT NN ."
+10,463,"For example, parents may think that eye blinking is related to vision problems or that sniffing is related to seasonal allergies.","IN NN , NNS MD VB DT NN VBZ VBN TO NN NNS CC DT NN VBZ VBN TO JJ NNS ."
+10,464,"There are many patients who are self-diagnosed after they, their parents, other relatives, or friends read or hear about Tourette's from others.","EX VBP JJ NNS WP VBP JJ : VBN IN PRP , PRP$ NNS , JJ NNS , CC NNS VBP CC VBP IN NNP POS IN NNS ."
+10,465,Tics are classified as either simple or complex.,NNS VBP VBN IN DT JJ CC JJ .
+10,466,"Simple motor tics are sudden, brief, repetitive movements that involve a limited number of muscle groups.","JJ NN NNS VBP JJ , JJ , JJ NNS WDT VBP DT VBN NN IN NN NNS ."
+10,467,"Some of the more common simple tics include eye blinking, facial grimacing, shoulder shrugging, and head or shoulder jerking.","DT IN DT RBR JJ NNS VBP NN , JJ NN , NN , CC NN CC NN ."
+10,468,"Simple vocalizations, which motor tics typically precede, might include repetitive throat-clearing, sniffing, or grunting sounds.","JJ NNS , WDT NN NNS RB VBP , MD VB JJ NN , NN , CC VBG NNS ."
+10,469,"Complex tics are distinct, coordinated patterns of movement that involve several muscle groups.","JJ NNS VBP JJ , JJ NNS IN NN WDT VBP JJ NN NNS ."
+10,470,Complex motor tics might include facial grimacing combined with a head twist and a shoulder shrug.,JJ NN NNS MD VB JJ NN VBN IN DT NN CC DT NN .
+10,471,"Other complex motor tics may actually appear purposeful, including sniffing or touching objects, hopping, jumping, bending, or twisting.","JJ NN NNS MD RB VB JJ , VBG CC VBG NNS , VBG , VBG , VBG , CC VBG ."
+10,472,Complex vocal tics include words or phrases.,JJ NNS VBP NNS CC NNS .
+10,473,"Perhaps the most dramatic and disabling tics include motor movements that result in self-harm such as punching oneself in the face, or vocal tics including coprolalia, which involves uttering swear words, or echolalia, which involves repeating the words or phrases of others.","RB DT RBS JJ CC JJ NNS VBP NN NNS WDT VBP IN NN JJ IN VBG NN IN DT NN , CC JJ NNS VBG NN , WDT VBZ VBG NN NNS , CC NN , WDT VBZ VBG DT NNS CC NNS IN NNS ."
+10,474,"Tics are often worse with excitement or anxiety and better during calm, focused activities.","NNS VBP RB JJR IN NN CC NN CC JJR IN JJ , JJ NNS ."
+10,475,Certain physical experiences can trigger or worsen tics.,JJ NNS MD VB CC VB NNS .
+10,476,"For example, tight collars may trigger neck tics, or hearing another person sniff or throat-clear may trigger the production of similar sounds.","IN NN , JJ NNS MD VB NN NNS , CC VBG DT NN VB CC JJ : JJ MD VB DT NN IN JJ NNS ."
+10,477,"Tics come and go over time, varying in type, frequency, location, and severity.","NNS VBP CC VBP IN NN , VBG IN NN , NN , NN , CC NN ."
+10,478,"The first symptoms Tourette's patients experience usually occur in the head and neck area, though they may progress to include muscles of the trunk and extremities.","DT JJ NNS NNP POS NNS VBP RB VBP IN DT NN CC NN , IN PRP MD VB TO VB NNS IN DT NN CC NNS ."
+10,479,"The symptoms of Tourette's are involuntary, but there are some people who can sometimes suppress, camouflage, or otherwise manage their tics in an effort to minimize their impact on functioning.","DT NNS IN NNP POS VBP JJ , CC EX VBP DT NNS WP MD RB VB , VB , CC RB VB PRP$ NNS IN DT NN TO VB PRP$ NN IN NN ."
+10,480,"However, people affected by Tourette's often report a substantial buildup in tension when suppressing their tics to the point where they often feel that the tic must be expressed.","RB , NNS VBN IN NNP POS RB VBP DT JJ NN IN NN WRB VBG PRP$ NNS TO DT NN WRB PRP RB VBP IN DT NN MD VB VBN ."
+10,481,"Tics in response to an environmental trigger can appear to be voluntary or purposeful, but are not.","NNS IN NN TO DT JJ NN MD VB TO VB JJ CC JJ , CC VBP RB ."
+10,482,"Many people with Tourette's experience additional neurobehavioral problems that include inattention, hyperactivity and impulsivity.","JJ NNS IN NNP POS VBP JJ NNS WDT VBP NN , NN CC NN ."
+10,483,"People with Tourette's have also reported problems with depression or anxiety disorders, as well as other difficulties Tourette's syndrome may or may not directly cause.","NNS IN NNP POS VBP RB VBN NNS IN NN CC NN NNS , RB IN JJ NNS NNP POS PRP$ NN MD CC MD RB VB ."
+10,484,Tourette's is a diagnosis doctors make after verifying that the patient has had both motor and vocal tics for at least one year.,NNP POS VBZ DT NN NNS VBP IN VBG IN DT NN VBZ VBN DT NN CC JJ NNS IN JJS CD NN .
+10,485,The existence of other neurological or psychiatric conditions can also help doctors establish the diagnosis of Tourette's is the correct one.,DT NN IN JJ CC JJ NNS MD RB VB NNS VB DT NN IN NNP POS VBZ DT JJ CD .
+10,486,Knowledgeable clinicians consulted by patients do not often misdiagnose common tics.,JJ NNS VBN IN NNS VBP RB VB JJ NNS .
+10,487,"However, atypical symptoms or atypical presentation such as onset of symptoms in adulthood may require specialty expertise for diagnosis.","RB , JJ NNS CC JJ NN JJ IN NN IN NNS IN NN MD VB NN IN NN ."
+10,488,There are no blood or laboratory tests needed for diagnosis.,EX VBP DT NN CC NN NNS VBN IN NN .
+10,489,"However, neuroimaging studies, which include magnetic resonance imaging, computerized tomography, and electroencephalograms, as well as certain lab tests may be used to rule out other conditions that Tourette's might be confused with.","RB , NN NNS , WDT VBP JJ NN , JJ NN , CC NNS , RB IN JJ NN NNS MD VB VBN TO VB RP JJ NNS IN NNP POS PRP MD VB VBN IN ."
+10,490,"In terms of the role of genes in the disorder, evidence from twin and family studies suggests that Tourette's is an inherited disorder.","IN NNS IN DT NN IN NNS IN DT NN , NN IN NN CC NN NNS VBZ IN NNP POS VBZ DT VBN NN ."
+10,491,"Although early family studies suggested an autosomal dominant mode of inheritance characterized the condition, more recent studies discovered the pattern of inheritance was much more complex.","IN JJ NN NNS VBD DT JJ NN IN NN VBD DT NN , RBR JJ NNS VBD DT NN IN NN VBD RB RBR JJ ."
+10,492,"Although there may be a few genes that have substantial effects, it's also possible that many genes with smaller effects and environmental factors may play a role in the development of Tourette's.","IN EX MD VB DT JJ NNS WDT VBP JJ NNS , PRP VBZ RB JJ IN JJ NNS IN JJR NNS CC JJ NNS MD VB DT NN IN DT NN IN NNP POS ."
+10,493,"Genetic studies also suggest that some forms of Attention Deficit Hyperactivity Disorder and Obsessive Compulsive Disorder are genetically related to Tourette's, but there is less evidence for a genetic relationship between Tourette's and other neurobehavioral problems that Tourette's commonly co-occurs with.","JJ NNS RB VBP IN DT NNS IN NNP CC NNP VBP RB VBN TO NNP POS , CC EX VBZ JJR NN IN DT JJ NN IN NNP POS CC JJ NNS IN NNP POS VBZ RB VBZ : VBZ IN ."
+10,494,An important role in Tourette's gene expression is played by the sex of the person.,DT JJ NN IN NNP POS PRP$ NN VBZ VBN IN DT NN IN DT NN .
+10,495,"In particular, males affected by the gene are more likely to have tics and females who have a genetic predisposition are more likely to have obsessive-compulsive symptoms.","IN JJ , NNS VBN IN DT NN VBP RBR JJ TO VB NNS CC NNS WP VBP DT JJ NN VBP RBR JJ TO VB JJ : JJ NNS ."
+10,496,"Much current research is aimed at better understanding the genetic basis and symptomology of Tourette's, as well as its relationship to related disorders.","RB JJ NN VBZ VBN IN RBR VBG DT JJ NN CC NN IN NNP POS , RB IN PRP$ NN TO VBN NNS ."
+10,497,The hope is that this research leads to better diagnostic tools and better treatments for Tourette's.,DT NN VBZ IN DT NN VBZ TO JJR JJ NNS CC JJR NNS IN NNP POS .

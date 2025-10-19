@@ -1,0 +1,4 @@
+Text_ID,Sent_ID,Sent,POS_Tags,Target
+3,9,"While it's true that crime declined in California last year, crime also dropped nationwide.","IN PRP VBZ JJ DT NN VBD IN NNP JJ NN , NN RB VBD RB .",NNN
+8,24,"When the body becomes overheated and cannot eliminate this excess heat, heat exhaustion and heat stroke are possible.","WRB DT NN VBZ VBN CC MD VB DT JJ NN , NN CC NN VBP JJ .",NNN
+55,135,"Soon Voltaire was a very rich man, rich enough to become a moneylender to the powerful and famous, rich enough that he no longer had to stake his financial well-being on that most unreliable and detestable profession, writing.","RB NNP VBD DT RB JJ NN , JJ RB TO VB DT NN TO DT JJ CC JJ , JJ RB IN PRP RB VBD TO VB PRP$ JJ NN : NN IN DT RBS JJ CC JJ NN , VBG .",JJJ

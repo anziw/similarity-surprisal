@@ -1,0 +1,38 @@
+---
+title: "get_RT"
+output: html_document
+date: "2025-10-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load libraries}
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r read data}
+df <- read.csv("processed_RTs.tsv", sep = "\t")
+
+dat <- df %>%
+  group_by(item, zone, word) %>%
+  summarize(avg_RT = mean(meanItemRT),
+            sd = mean(sdItemRT)) %>%
+  ungroup()
+
+write.csv(dat, "naturalstories_RTs.csv", row.names = FALSE)
+```
+
+```{r }
+df_targets <- read.csv("data/naturalstories_stimuli.csv")
+targets <- df_targets$Sent_ID
+
+df_RT <- read.csv("naturalstories_RTs_sentid.csv")
+
+df_RT <- df_RT %>%
+  filter(df_RT$Sent_ID %in% targets)
+```
+
