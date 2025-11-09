@@ -1,7 +1,6 @@
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForTokenClassification, TokenClassificationPipeline
 
-# === Load model and tokenizer ===
 model_name = "QCRI/bert-base-multilingual-cased-pos-english"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForTokenClassification.from_pretrained(model_name)
@@ -9,8 +8,8 @@ model = AutoModelForTokenClassification.from_pretrained(model_name)
 pipeline = TokenClassificationPipeline(model=model, tokenizer=tokenizer, aggregation_strategy="first")
 
 input_files = [
-    "provo_sentences.csv",
-    "naturalstories_sentences.csv"
+    "provo/provo_sentences.csv",
+    "naturalstories/naturalstories_sentences.csv"
 ]
 
 for file in input_files:
