@@ -5,30 +5,30 @@ from sacremoses import MosesPunctNormalizer, MosesTokenizer
 normalizer = MosesPunctNormalizer(lang='en')
 
 # Provo
-df = pd.read_csv("provo/Provo_Corpus-Predictability_Norms.csv", encoding="unicode_escape")
-unique_texts = df.drop_duplicates(subset=["Text_ID"])[["Text_ID", "Text"]]
-unique_texts.to_csv("provo/provo.csv", index=False)
+# df = pd.read_csv("provo/Provo_Corpus-Predictability_Norms.csv", encoding="unicode_escape")
+# unique_texts = df.drop_duplicates(subset=["Text_ID"])[["Text_ID", "Text"]]
+# unique_texts.to_csv("provo/provo.csv", index=False)
 
-df = pd.read_csv("provo/provo.csv")
+# df = pd.read_csv("provo/provo.csv")
 
-rows = []
-sent_id = 1
+# rows = []
+# sent_id = 1
 
-for _, row in df.iterrows():
-    text_id = row["Text_ID"]
-    text = row["Text"]
-    sentences = sent_tokenize(text)
-    for sent in sentences:
-        sent = normalizer.normalize(sent)
-        rows.append({
-            "Text_ID": text_id,
-            "Sent_ID": sent_id,
-            "Sent": sent.strip()
-        })
-        sent_id += 1 
+# for _, row in df.iterrows():
+#     text_id = row["Text_ID"]
+#     text = row["Text"]
+#     sentences = sent_tokenize(text)
+#     for sent in sentences:
+#         sent = normalizer.normalize(sent)
+#         rows.append({
+#             "Text_ID": text_id,
+#             "Sent_ID": sent_id,
+#             "Sent": sent.strip()
+#         })
+#         sent_id += 1 
 
-df_sentences = pd.DataFrame(rows)
-df_sentences.to_csv("provo/provo_sentences.csv", index=False)
+# df_sentences = pd.DataFrame(rows)
+# df_sentences.to_csv("provo/provo_sentences.csv", index=False)
 
 
 # Natural stories
@@ -46,18 +46,33 @@ df = pd.read_csv("naturalstories/naturalstories.csv")
 
 rows = []
 sent_id = 1
+word_id = 1
+curr_text_id = None
 
 for _, row in df.iterrows():
     text_id = row["Text_ID"]
+    
+    if text_id != curr_text_id: # resets word_id counter for a new text
+        word_id = 1
+        curr_text_id = text_id
+    
     text = row["Text"]
     sentences = sent_tokenize(text)
+    
     for sent in sentences:
         sent = normalizer.normalize(sent)
-        rows.append({
-            "Text_ID": text_id,
-            "Sent_ID": sent_id,
-            "Sent": sent.strip()
-        })
+        words = sent.strip().split()
+        
+        for word in words:
+            rows.append({
+                "Text_ID": text_id,
+                "Sent_ID": sent_id,
+                "Sent": sent.strip(),
+                "Word_ID": word_id,
+                "Word": word
+            })
+            word_id += 1
+        
         sent_id += 1 
 
 df_sentences = pd.DataFrame(rows)
