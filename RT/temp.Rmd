@@ -1,0 +1,79 @@
+---
+title: "temp"
+output: html_document
+date: "2025-11-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load libraries}
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(lme4)
+```
+
+```{r align sent ids}
+df_surp <- read.csv("naturalstories_results.csv")
+
+df_surp <- df_surp %>%
+  mutate(order = row_number()) %>%
+  rename(item = Text_ID)
+
+df_surp <- df_surp %>%
+  group_by(item) %>%
+  mutate(zone = row_number()) %>%
+  ungroup()
+
+df_rt <- read.csv("processed_RTs.tsv", sep = "\t")
+
+# sanity check: item and zone always match
+unmatched <- df_rt %>%
+  anti_join(df_surp, by = c("item", "zone"))
+
+nrow(unmatched)
+
+df_rt <- df_rt %>%
+  left_join(df_surp %>% select(item, zone, Sent_ID, surprisal), 
+            by = c("item", "zone"))
+```
+
+```{r unigram frequency, word length, word pos}
+dict <- read.csv("wikitext103_dictionary.csv")
+
+get_freq <- function(word, dictionary) {
+  word_lower <- tolower(word)
+  entry <- dictionary %>% filter(word == word_lower)
+  return(entry$frequency)
+}
+
+get_length <- function(word, dictionary) {
+  word_lower <- tolower(word)
+  entry <- dictionary %>% filter(word == word_lower)
+  return(entry$length)
+}
+
+```
+
+```{r }
+df_stimuli <- read.csv("naturalstories_stimuli.csv")
+targets <- df_stimuli$Sent_ID
+
+df_test <- df_rt %>%
+  filter(Sent_ID %in% targets)
+
+df_train <- df_rt %>%
+  filter(!Sent_ID %in% targets)
+```
+
+
+```{r temp}
+m <- lmer(RT ~ surprisal + 
+            (1 + surprisal | WorkerId) + 
+            (1 | zone), 
+          data = df_train)
+
+summary(m)
+```

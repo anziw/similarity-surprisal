@@ -16,23 +16,65 @@ library(ggplot2)
 
 ```{r read data}
 df <- read.csv("processed_RTs.tsv", sep = "\t")
+print(length(unique(df$WorkerId)))
 
-dat <- df %>%
-  group_by(item, zone, word) %>%
-  summarize(avg_RT = mean(meanItemRT),
-            sd = mean(sdItemRT)) %>%
-  ungroup()
-
-write.csv(dat, "naturalstories_RTs.csv", row.names = FALSE)
+# 
+# dat <- df %>%
+#   group_by(item, zone, word) %>%
+#   summarize(avg_RT = mean(meanItemRT),
+#             sd = mean(sdItemRT)) %>%
+#   ungroup()
+# 
+# write.csv(dat, "naturalstories_RTs.csv", row.names = FALSE)
 ```
 
 ```{r }
-df_targets <- read.csv("data/naturalstories_stimuli.csv")
-targets <- df_targets$Sent_ID
+df_surp <- read.csv("naturalstories_surprisals.csv")
+targets <- df_surp$Sent_ID
 
 df_RT <- read.csv("naturalstories_RTs_sentid.csv")
 
 df_RT <- df_RT %>%
   filter(df_RT$Sent_ID %in% targets)
+
+df_surp <- df_surp %>%
+  group_by(Sent_ID) %>%
+  mutate(word_no = row_number())
+
+df_RT <- df_RT %>%
+  group_by(item) %>%
+  mutate(word_no = row_number()) %>%
+  ungroup() %>%
+  select(-c(item, zone))
+
+df <- left_join(df_RT, df_surp, by = c("Sent_ID", "word_no", "word"))
 ```
 
+```{r temp}
+dat <- df %>%
+  drop_na()
+
+dat_long <- dat %>%
+  pivot_longer(cols = c(avg_RT, surprisal),
+               names_to = "measure",
+               values_to = "value")
+
+sent_ids <- unique(dat_long$Sent_ID)
+
+for (sent in sent_ids) {
+  dat_sent <- dat_long %>% filter(Sent_ID == sent)
+  
+  p <- ggplot(dat_sent, aes(x = word_no, y = value, color = measure)) +
+    geom_line() +
+    geom_point() +
+    scale_x_continuous(breaks = dat_sent$word_no,
+                       labels = dat_sent$word) +
+    labs(title = sent) +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+  print(p)
+}
+
+
+```
